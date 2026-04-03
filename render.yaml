@@ -6,6 +6,16 @@ services:
     rootDir: .
     buildCommand: "true"
     staticPublishPath: sites/nextjs/out
+    routes:
+      - type: rewrite
+        source: /
+        destination: /index.html
+      - type: rewrite
+        source: /categories/*
+        destination: /categories/*/index.html
+      - type: rewrite
+        source: /tools/*
+        destination: /tools/*/index.html
     autoDeployTrigger: off
 
   - type: web
