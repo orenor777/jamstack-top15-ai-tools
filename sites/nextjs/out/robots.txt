@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://taaft-nextjs-static.onrender.com/sitemap.xml

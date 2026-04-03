@@ -12,6 +12,7 @@ const tools = payload.tools.map((tool) => ({
   toolSlug: `${slugify(tool.name)}-${tool.id}`,
   categorySlug: slugify(tool.category),
 }));
+export const siteUrl = "https://taaft-nextjs-static.onrender.com";
 
 export function getTools() {
   return tools;

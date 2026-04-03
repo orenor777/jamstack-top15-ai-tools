@@ -11,6 +11,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data" / "tools.json"
 DOCS = ROOT / "docs"
+SITE_URL = "https://taaft-mkdocs-static.onrender.com"
 
 
 def slugify(value: str) -> str:
@@ -102,8 +103,11 @@ body { background: linear-gradient(180deg, #f6f1e8 0%, #efe7da 100%); }
 """
     )
 
+    sitemap_entries = [SITE_URL]
+
     for category, items in categories.items():
         slug = slugify(category)
+        sitemap_entries.append(f"{SITE_URL}/categories/{slug}/")
         cards = "\n".join(card_with_prefix(tool, "../") for tool in items)
         (DOCS / "categories" / f"{slug}.md").write_text(
             f"""# {category} _AI tools_
@@ -121,6 +125,7 @@ body { background: linear-gradient(180deg, #f6f1e8 0%, #efe7da 100%); }
     for tool in tools:
         tool_slug = f"{slugify(tool['name'])}-{tool['id']}"
         category_slug = slugify(tool["category"])
+        sitemap_entries.append(f"{SITE_URL}/tools/{tool_slug}/")
         (DOCS / "tools" / f"{tool_slug}.md").write_text(
             f"""# {tool['name']}
 
@@ -137,6 +142,21 @@ body { background: linear-gradient(180deg, #f6f1e8 0%, #efe7da 100%); }
 [Visit tool]({tool['url']})
 """
         )
+
+    (DOCS / "robots.txt").write_text(
+        f"User-agent: *\nAllow: /\n\nSitemap: {SITE_URL}/sitemap.xml\n"
+    )
+    (DOCS / "sitemap.xml").write_text(
+        "\n".join(
+            [
+                '<?xml version="1.0" encoding="UTF-8"?>',
+                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+                *[f"  <url><loc>{entry}</loc></url>" for entry in sitemap_entries],
+                "</urlset>",
+                "",
+            ]
+        )
+    )
 
 
 if __name__ == "__main__":

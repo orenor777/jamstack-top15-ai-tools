@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://taaft-hugo-static.onrender.com/sitemap.xml

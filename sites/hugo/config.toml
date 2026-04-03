@@ -1,7 +1,7 @@
-baseURL = "https://example.com/"
+baseURL = "https://taaft-hugo-static.onrender.com/"
 languageCode = "en-us"
 title = "Hugo × TAAFT"
-disableKinds = ["RSS", "sitemap"]
+disableKinds = ["RSS"]
 
 [taxonomies]
 category = "categories"
