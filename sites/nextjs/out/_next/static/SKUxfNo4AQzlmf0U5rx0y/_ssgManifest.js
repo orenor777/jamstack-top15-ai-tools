@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcategories\u002F[categorySlug]","\u002Ftools\u002F[toolSlug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
