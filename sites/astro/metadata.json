@@ -1,0 +1,9 @@
+{
+  "slug": "astro",
+  "name": "Astro",
+  "stars": 52942,
+  "source_url": "https://jamstack.org/generators/",
+  "tagline": "Content-heavy site generator with low JS output",
+  "notes": "Typical static build: astro build producing dist/.",
+  "render_name": "taaft-astro"
+}

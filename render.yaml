@@ -1,0 +1,27 @@
+services:
+  - type: web
+    name: taaft-nextjs-native
+    runtime: docker
+    plan: free
+    rootDir: sites/nextjs
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    autoDeployTrigger: off
+
+  - type: web
+    name: taaft-hugo-native
+    runtime: docker
+    plan: free
+    rootDir: sites/hugo
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    autoDeployTrigger: off
+
+  - type: web
+    name: taaft-mkdocs-native
+    runtime: docker
+    plan: free
+    rootDir: sites/mkdocs
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    autoDeployTrigger: off

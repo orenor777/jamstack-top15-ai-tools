@@ -1,0 +1,9 @@
+{
+  "slug": "docusaurus",
+  "name": "Docusaurus",
+  "stars": 61371,
+  "source_url": "https://jamstack.org/generators/",
+  "tagline": "Docs-oriented React static site",
+  "notes": "Typical static build: docusaurus build producing build/.",
+  "render_name": "taaft-docusaurus"
+}

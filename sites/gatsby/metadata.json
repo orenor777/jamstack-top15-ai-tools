@@ -1,0 +1,9 @@
+{
+  "slug": "gatsby",
+  "name": "Gatsby",
+  "stars": 55916,
+  "source_url": "https://jamstack.org/generators/",
+  "tagline": "React static data site",
+  "notes": "Typical static build: gatsby build producing public/.",
+  "render_name": "taaft-gatsby"
+}

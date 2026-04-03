@@ -1,0 +1,7 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Hugo × TAAFT"
+disableKinds = ["RSS", "sitemap"]
+
+[taxonomies]
+category = "categories"

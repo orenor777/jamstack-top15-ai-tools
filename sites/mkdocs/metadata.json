@@ -1,0 +1,9 @@
+{
+  "slug": "mkdocs",
+  "name": "MkDocs",
+  "stars": 20907,
+  "source_url": "https://jamstack.org/generators/",
+  "tagline": "Markdown-driven Python docs generator",
+  "notes": "Typical static build: mkdocs build producing site/.",
+  "render_name": "taaft-mkdocs"
+}

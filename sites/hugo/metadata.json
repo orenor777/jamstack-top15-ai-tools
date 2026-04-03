@@ -1,0 +1,9 @@
+{
+  "slug": "hugo",
+  "name": "Hugo",
+  "stars": 82968,
+  "source_url": "https://jamstack.org/generators/",
+  "tagline": "Go-powered static site generator",
+  "notes": "Typical static build: hugo --minify producing public/.",
+  "render_name": "taaft-hugo"
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "hexo",
+  "name": "Hexo",
+  "stars": 40669,
+  "source_url": "https://jamstack.org/generators/",
+  "tagline": "Node-based fast blog and content generator",
+  "notes": "Typical static build: hexo generate producing public/.",
+  "render_name": "taaft-hexo"
+}

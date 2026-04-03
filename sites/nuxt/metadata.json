@@ -1,0 +1,9 @@
+{
+  "slug": "nuxt",
+  "name": "Nuxt",
+  "stars": 57969,
+  "source_url": "https://jamstack.org/generators/",
+  "tagline": "Vue-based static generation",
+  "notes": "Typical static build: nuxi generate producing .output/public/.",
+  "render_name": "taaft-nuxt"
+}

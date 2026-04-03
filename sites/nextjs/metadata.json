@@ -1,0 +1,9 @@
+{
+  "slug": "nextjs",
+  "name": "Next.js",
+  "stars": 133884,
+  "source_url": "https://jamstack.org/generators/",
+  "tagline": "React-based static export build",
+  "notes": "Typical static build: next build with output export or next export depending on app structure.",
+  "render_name": "taaft-nextjs"
+}

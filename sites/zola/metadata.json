@@ -1,0 +1,9 @@
+{
+  "slug": "zola",
+  "name": "Zola",
+  "stars": 15770,
+  "source_url": "https://jamstack.org/generators/",
+  "tagline": "Single-binary Rust static site generator",
+  "notes": "Typical static build: zola build producing public/.",
+  "render_name": "taaft-zola"
+}

@@ -1,0 +1,12 @@
+<article class="tool-card">
+  <div class="tool-top">
+    {{ with index .Params.categories 0 }}<span class="tool-category">{{ . }}</span>{{ end }}
+    <span class="tool-pricing">{{ .Params.pricing }}</span>
+  </div>
+  <h3>{{ .Title }}</h3>
+  <p>{{ .Params.description }}</p>
+  <div class="tool-footer">
+    <span>{{ .Params.domain }}</span>
+    <a class="tool-link" href="{{ .RelPermalink }}">View details</a>
+  </div>
+</article>

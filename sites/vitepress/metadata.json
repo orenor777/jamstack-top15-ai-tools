@@ -1,0 +1,9 @@
+{
+  "slug": "vitepress",
+  "name": "VitePress",
+  "stars": 15553,
+  "source_url": "https://jamstack.org/generators/",
+  "tagline": "Vite-based docs-style static site generator",
+  "notes": "Typical static build: vitepress build docs producing docs/.vitepress/dist/.",
+  "render_name": "taaft-vitepress"
+}

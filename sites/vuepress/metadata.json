@@ -1,0 +1,9 @@
+{
+  "slug": "vuepress",
+  "name": "VuePress",
+  "stars": 22796,
+  "source_url": "https://jamstack.org/generators/",
+  "tagline": "Vue-powered documentation-style static site",
+  "notes": "Typical static build: vuepress build docs producing docs/.vuepress/dist/.",
+  "render_name": "taaft-vuepress"
+}

@@ -1,0 +1,25 @@
+{{ define "main" }}
+<main>
+  <section class="category-page">
+    <div class="breadcrumb">
+      <a href="/">Home</a>
+      <span>/</span>
+      <span>{{ .Title }}</span>
+    </div>
+    <div class="badge">Category page</div>
+    <h1>{{ .Title }} <span>AI tools</span></h1>
+    <p class="meta-note">{{ len .Pages }} tools in this category.</p>
+    <div class="button-row">
+      <a class="button button-secondary" href="/">Back to all tools</a>
+    </div>
+  </section>
+
+  <section class="directory">
+    <div class="tool-grid">
+      {{ range .Pages }}
+      {{ partial "tool-card.html" . }}
+      {{ end }}
+    </div>
+  </section>
+</main>
+{{ end }}

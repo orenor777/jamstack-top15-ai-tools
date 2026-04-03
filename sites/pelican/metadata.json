@@ -1,0 +1,9 @@
+{
+  "slug": "pelican",
+  "name": "Pelican",
+  "stars": 12985,
+  "source_url": "https://jamstack.org/generators/",
+  "tagline": "Python static publishing workflow",
+  "notes": "Typical static build: pelican content -o output -s pelicanconf.py.",
+  "render_name": "taaft-pelican"
+}

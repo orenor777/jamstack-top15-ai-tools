@@ -1,0 +1,9 @@
+{
+  "slug": "mdbook",
+  "name": "mdBook",
+  "stars": 20174,
+  "source_url": "https://jamstack.org/generators/",
+  "tagline": "Rust-based static documentation builder",
+  "notes": "Typical static build: mdbook build producing book/.",
+  "render_name": "taaft-mdbook"
+}

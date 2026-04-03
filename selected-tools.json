@@ -1,0 +1,4505 @@
+{
+  "count": 500,
+  "tools": [
+    {
+      "id": 1,
+      "name": "TOEFL Tutor Pro",
+      "description": "TOEFL Tutor Pro is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-KNLao0Vkf-toefl-tutor-pro",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 2,
+      "name": "Venkat",
+      "description": "Venkat is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@kolaprabhakar/venkat/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 3,
+      "name": "Kitchen and Vision Assistant GPT",
+      "description": "Kitchen and Vision Assistant GPT is listed in the local TAAFT dataset.",
+      "category": "Analytics",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-2ENWV8WeM-kitchen-and-vision-assistant-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 4,
+      "name": "Christmas Music",
+      "description": "Christmas Music is listed in the local TAAFT dataset.",
+      "category": "Voice",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-FEMeyjdqL-christmas-music",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 5,
+      "name": "Caregiver Companion",
+      "description": "Caregiver Companion is listed in the local TAAFT dataset.",
+      "category": "Productivity",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-EHExYTzA5-caregiver-companion",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 6,
+      "name": "My Beautiful Multilingual Assistant",
+      "description": "My Beautiful Multilingual Assistant is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-bExfjWiKl-my-beautiful-multilingual-assistant-wo-piao-liang-de-yu-yan-lao-shi",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 7,
+      "name": "Digital Experiment Analyst",
+      "description": "Digital Experiment Analyst is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-0alZCSaAk-digital-experiment-analyst",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 8,
+      "name": "Blueprint GPT",
+      "description": "Blueprint GPT is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-AxMok4e4m-blueprint-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 9,
+      "name": "ChatDND",
+      "description": "ChatDND is listed in the local TAAFT dataset.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-jTrex9cCi-chatdnd",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 10,
+      "name": "Budget Buddy",
+      "description": "Budget Buddy is listed in the local TAAFT dataset.",
+      "category": "Business",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-HMCVleQoX-budget-buddy",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 11,
+      "name": "Aistro",
+      "description": "Aistro is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Education",
+      "pricing": "Free + from $9.99/mo",
+      "url": "https://www.aistro.io/en/",
+      "domain": "www.aistro.io"
+    },
+    {
+      "id": 12,
+      "name": "UnboundAI Technology",
+      "description": "UnboundAI Technology is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://unboundai.technology/",
+      "domain": "unboundai.technology"
+    },
+    {
+      "id": 13,
+      "name": "Pokemonizer",
+      "description": "Pokemonizer is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-DvWEtU82H-pokemonizer",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 14,
+      "name": "Kupiks",
+      "description": "Kupiks is listed in the local TAAFT dataset.",
+      "category": "Writing",
+      "pricing": "No pricing",
+      "url": "https://www.kupiks.com/",
+      "domain": "www.kupiks.com"
+    },
+    {
+      "id": 15,
+      "name": "MagicFlow",
+      "description": "MagicFlow is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Coding",
+      "pricing": "Free + from $20/mo",
+      "url": "https://www.magicflow.ai/",
+      "domain": "www.magicflow.ai"
+    },
+    {
+      "id": 16,
+      "name": "ClearSeas.ai",
+      "description": "ClearSeas.ai is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "No pricing",
+      "url": "https://clearseas.ai/",
+      "domain": "clearseas.ai"
+    },
+    {
+      "id": 17,
+      "name": "Faceshape",
+      "description": "Faceshape is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://www.faceshape.com/studio",
+      "domain": "www.faceshape.com"
+    },
+    {
+      "id": 18,
+      "name": "Sensei N3 JLPT fr",
+      "description": "Sensei N3 JLPT fr is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-8tGVWJUXb-sensei-n3-jlpt-fr",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 19,
+      "name": "Summary AI",
+      "description": "Summary AI is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://www.whatisthispageabout.com/",
+      "domain": "www.whatisthispageabout.com"
+    },
+    {
+      "id": 20,
+      "name": "Cute Little Murders",
+      "description": "Cute Little Murders is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Productivity",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-7oz7IrF48-cute-little-murders",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 21,
+      "name": "Realism GPT",
+      "description": "Realism GPT is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-rQbzHQkZ3-realism-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 22,
+      "name": "Sidekick by Jigso",
+      "description": "Sidekick by Jigso is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free + from $15/mo",
+      "url": "https://www.jigso.io/sidekick",
+      "domain": "www.jigso.io"
+    },
+    {
+      "id": 23,
+      "name": "Azure solution architect",
+      "description": "Azure solution architect is listed in the local TAAFT dataset.",
+      "category": "Automation",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@mighielkarssen/azure-solution-architect/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 24,
+      "name": "Academic Paper Writing Assistant",
+      "description": "Academic Paper Writing Assistant is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-3JjMSVsuP-academic-paper-writing-assistant",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 25,
+      "name": "AI Subtask Creator",
+      "description": "AI Subtask Creator is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-2rA0NAP6f-ai-subtask-creator",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 26,
+      "name": "The DocGPT",
+      "description": "The DocGPT is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Voice",
+      "pricing": "Free + from $4.99/mo",
+      "url": "https://thedocgpt.com",
+      "domain": "thedocgpt.com"
+    },
+    {
+      "id": 27,
+      "name": "CopyTruck",
+      "description": "CopyTruck is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Automation",
+      "pricing": "Free + from $12/mo",
+      "url": "https://www.copytruck.com/",
+      "domain": "www.copytruck.com"
+    },
+    {
+      "id": 28,
+      "name": "FREE Instagram Captions Generator",
+      "description": "FREE Instagram Captions Generator is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-FAh0eMUg5-free-instragram-captions-generator",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 29,
+      "name": "Sketch -> Design Bot",
+      "description": "Sketch -> Design Bot is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Design",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-aPyQZGV74-sketch-design-bot",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 30,
+      "name": "ResuMaster",
+      "description": "ResuMaster is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Coding",
+      "pricing": "No pricing",
+      "url": "https://resumaster.ai/",
+      "domain": "resumaster.ai"
+    },
+    {
+      "id": 31,
+      "name": "Fashion Diva",
+      "description": "Fashion Diva is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Productivity",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-2ty7m8K9J-fashion-diva",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 32,
+      "name": "criador de sites",
+      "description": "criador de sites",
+      "category": "Analytics",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@dieivi/criador-de-sites/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 33,
+      "name": "Magic Eraser",
+      "description": "Magic Eraser is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free + from $4.99/mo",
+      "url": "https://magicstudio.com/magiceraser",
+      "domain": "magicstudio.com"
+    },
+    {
+      "id": 34,
+      "name": "SiteGuide",
+      "description": "SiteGuide is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Design",
+      "pricing": "No pricing",
+      "url": "https://siteguide.ai/",
+      "domain": "siteguide.ai"
+    },
+    {
+      "id": 35,
+      "name": "PDFtoChat",
+      "description": "PDFtoChat is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "No pricing",
+      "url": "https://www.pdftochat.com/",
+      "domain": "www.pdftochat.com"
+    },
+    {
+      "id": 36,
+      "name": "World War II",
+      "description": "World War II is listed in the local TAAFT dataset.",
+      "category": "Voice",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-IznbKd2x7-world-war-ii",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 37,
+      "name": "- Child-friendly English tutor",
+      "description": "- Child-friendly English tutor is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-pobnRThOv-er-tong-ying-yu-qi-meng-zhi-dao",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 38,
+      "name": "SoulGen AI",
+      "description": "SoulGen AI is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Marketing",
+      "pricing": "From $9.99/mo",
+      "url": "https://soulgen-ai.com/",
+      "domain": "soulgen-ai.com"
+    },
+    {
+      "id": 39,
+      "name": "Crypto Compass",
+      "description": "Crypto Compass is listed in the local TAAFT dataset.",
+      "category": "Automation",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-MkS6XFSXt-crypto-compass",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 40,
+      "name": "Relationship chat analysis",
+      "description": "Relationship chat analysis is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@tab/relationship-chat-analysis/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 41,
+      "name": "Casey Scholar",
+      "description": "Casey Scholar is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free + from $9.9/mo",
+      "url": "https://www.casey-scholar.com/",
+      "domain": "www.casey-scholar.com"
+    },
+    {
+      "id": 42,
+      "name": "The Digital Dan Sodergren",
+      "description": "The Digital Dan Sodergren is listed in the local TAAFT dataset.",
+      "category": "Business",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-ry9xT1LMF-the-digital-dan-sodergren",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 43,
+      "name": "Martini Mixer Master",
+      "description": "Martini Mixer Master is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-CQ8Sg91de-martini-mixer-master",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 44,
+      "name": "Glowup AI",
+      "description": "Glowup AI is listed in the local TAAFT dataset.",
+      "category": "Voice",
+      "pricing": "Free + from $2.99",
+      "url": "https://glowup.fm/",
+      "domain": "glowup.fm"
+    },
+    {
+      "id": 45,
+      "name": "Canada Crossing",
+      "description": "Canada Crossing is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-eqDPB7qcR-canada-crossing-your-canadian-immigration-expert",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 46,
+      "name": "Ultimate Featured Image Creator",
+      "description": "Ultimate Featured Image Creator is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-fJVRVtzJY-ultimate-featured-image-creator",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 47,
+      "name": "Ribbo",
+      "description": "Ribbo is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "Free + from $20/mo",
+      "url": "https://www.ribbo.ai/",
+      "domain": "www.ribbo.ai"
+    },
+    {
+      "id": 48,
+      "name": "CookFast",
+      "description": "CookFast is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "From $4.49/mo",
+      "url": "https://www.cookfast.org/",
+      "domain": "www.cookfast.org"
+    },
+    {
+      "id": 49,
+      "name": "ReclaimAI",
+      "description": "ReclaimAI is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Productivity",
+      "pricing": "From $8/mo",
+      "url": "https://reclaim.ai/",
+      "domain": "reclaim.ai"
+    },
+    {
+      "id": 50,
+      "name": "Futurism Bot",
+      "description": "Futurism Bot is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-njRWTD7jU-futurism-bot",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 51,
+      "name": "GPT-Help",
+      "description": "GPT-Help is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Analytics",
+      "pricing": "From $29",
+      "url": "https://sites.google.com/view/aihelper2",
+      "domain": "sites.google.com"
+    },
+    {
+      "id": 52,
+      "name": "CET Coach",
+      "description": "CET Coach is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-ae8d8pdHh-cet-coach",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 53,
+      "name": "CareerMentor",
+      "description": "CareerMentor is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Lifestyle",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-XsiflZEU2-careermentor",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 54,
+      "name": "Mock Job Interviewer",
+      "description": "Mock Job Interviewer is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-i9IZViPR4-mock-job-interviewer",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 55,
+      "name": "SwiftGPT",
+      "description": "SwiftGPT is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-Ho9DZV9zP-swiftgpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 56,
+      "name": "RPG Dice",
+      "description": "RPG Dice is listed in the local TAAFT dataset.",
+      "category": "Design",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-XLgDCwwYl-rpg-dice",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 57,
+      "name": "Slide Wizard",
+      "description": "Slide Wizard is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Design",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-El14AaQbe-slide-wizard",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 58,
+      "name": "Showers",
+      "description": "Showers is listed in the local TAAFT dataset.",
+      "category": "Business",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-CtlPNnA6Q-showers",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 59,
+      "name": "Frank",
+      "description": "Frank",
+      "category": "Video",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@shawnrussell-21894352-1720818059/frank/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 60,
+      "name": "Smart Invest Advisor",
+      "description": "Smart Invest Advisor is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-MgiRwJV2w-smart-invest-advisor",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 61,
+      "name": "USA Real Estate Law Master",
+      "description": "USA Real Estate Law Master is listed in the local TAAFT dataset.",
+      "category": "Business",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-B496J4T2D-usa-real-estate-law-master",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 62,
+      "name": "NoteKnight",
+      "description": "NoteKnight is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Education",
+      "pricing": "Free + from $4.99/mo",
+      "url": "https://www.noteknight.com/",
+      "domain": "www.noteknight.com"
+    },
+    {
+      "id": 63,
+      "name": "Character Forger",
+      "description": "Character Forger is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-4i0qgKRU5-character-forger",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 64,
+      "name": "Trojan Taunter",
+      "description": "Trojan Taunter is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-KEktjxLdO-trojan-taunter",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 65,
+      "name": "Wellness Wise",
+      "description": "Wellness Wise is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Automation",
+      "pricing": "No pricing",
+      "url": "https://www.agenthost.ai/chat/wellness-wise",
+      "domain": "www.agenthost.ai"
+    },
+    {
+      "id": 66,
+      "name": "RPGMakerGPT",
+      "description": "RPGMakerGPT is listed in the local TAAFT dataset.",
+      "category": "Design",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-bNCJO6o9I-rpgmakergpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 67,
+      "name": "Budgetfy",
+      "description": "Budgetfy is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free + from $5/mo",
+      "url": "https://budgetfy.pro/",
+      "domain": "budgetfy.pro"
+    },
+    {
+      "id": 68,
+      "name": "Scribbler",
+      "description": "Scribbler is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://apps.apple.com/us/app/scribbler-draw-beautiful-art/id1671885963",
+      "domain": "apps.apple.com"
+    },
+    {
+      "id": 69,
+      "name": "Aivoov",
+      "description": "Aivoov is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Voice",
+      "pricing": "Free + from $13.41/m...",
+      "url": "https://aivoov.com/",
+      "domain": "aivoov.com"
+    },
+    {
+      "id": 70,
+      "name": "Trag",
+      "description": "Trag is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://usetrag.com/",
+      "domain": "usetrag.com"
+    },
+    {
+      "id": 71,
+      "name": "Dog name generator",
+      "description": "Dog name generator is listed in the local TAAFT dataset.",
+      "category": "Writing",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@changetheway/dog-name-generator/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 72,
+      "name": "Scientific Image Generator Finder",
+      "description": "Scientific Image Generator Finder is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@hanansaeed/scientific-image-generator-finder/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 73,
+      "name": "Contractiq",
+      "description": "Contractiq is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "Free + from $9.99/mo",
+      "url": "https://www.contractiq.ai/",
+      "domain": "www.contractiq.ai"
+    },
+    {
+      "id": 74,
+      "name": "Movie Quote Responder",
+      "description": "Movie Quote Responder is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-oRJET6old-movie-quote-responder",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 75,
+      "name": "FinWisdom GPT",
+      "description": "FinWisdom GPT is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-NzN6tPndn-wealth-creation-guide",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 76,
+      "name": "Cairo Coder",
+      "description": "Cairo Coder is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-ee3l7HkWs-cairo-coder",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 77,
+      "name": "Khoj",
+      "description": "Khoj is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Education",
+      "pricing": "Free + from $10/mo",
+      "url": "https://khoj.dev/",
+      "domain": "khoj.dev"
+    },
+    {
+      "id": 78,
+      "name": "Botme",
+      "description": "Botme is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "No pricing",
+      "url": "https://botme.io/",
+      "domain": "botme.io"
+    },
+    {
+      "id": 79,
+      "name": "InPixio",
+      "description": "InPixio is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "From $29.92",
+      "url": "https://www.inpixio.com/",
+      "domain": "www.inpixio.com"
+    },
+    {
+      "id": 80,
+      "name": "Free Secrets of Success motivation",
+      "description": "Free Secrets of Success motivation is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-FHnBzbwJi-free-secrets-of-success-motivation",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 81,
+      "name": "Mo Rehan",
+      "description": "Mo Rehan is listed in the local TAAFT dataset.",
+      "category": "Analytics",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@morehan-1/mo-rehan/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 82,
+      "name": "Flowrite",
+      "description": "Flowrite is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free + from $5/mo",
+      "url": "https://www.flowrite.com/",
+      "domain": "www.flowrite.com"
+    },
+    {
+      "id": 83,
+      "name": "Voyp",
+      "description": "Voyp is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Productivity",
+      "pricing": "Free + from $2.99/mo",
+      "url": "https://voyp.app/",
+      "domain": "voyp.app"
+    },
+    {
+      "id": 84,
+      "name": "Stillgram",
+      "description": "Stillgram is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free + from $2.99/mo",
+      "url": "https://stillgram.io/",
+      "domain": "stillgram.io"
+    },
+    {
+      "id": 85,
+      "name": "The Stylist",
+      "description": "The Stylist is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Lifestyle",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-qzQo9dhn6-the-stylist",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 86,
+      "name": "GramBotPlus",
+      "description": "GramBotPlus is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Design",
+      "pricing": "No pricing",
+      "url": "https://www.digicuratoragency.com/grambotplus",
+      "domain": "www.digicuratoragency.com"
+    },
+    {
+      "id": 87,
+      "name": "Delivery Hustle",
+      "description": "Delivery Hustle is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-FpAJgsxec-delivery-hustle",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 88,
+      "name": "Personal Business Manager",
+      "description": "Personal Business Manager is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-49TGuuyLB-personal-business-manager",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 89,
+      "name": "XenonStack",
+      "description": "XenonStack is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Business",
+      "pricing": "No pricing",
+      "url": "https://www.xenonstack.com/",
+      "domain": "www.xenonstack.com"
+    },
+    {
+      "id": 90,
+      "name": "The I Need Motivation AI",
+      "description": "The I Need Motivation AI is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-03tjpnfJp-the-i-need-motivation-ai",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 91,
+      "name": "Opposite GPT",
+      "description": "Opposite GPT is listed in the local TAAFT dataset.",
+      "category": "Design",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-klb6pGBBQ-opposite-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 92,
+      "name": "Ask Jesus",
+      "description": "Ask Jesus is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://www.twitch.tv/ask_jesus",
+      "domain": "www.twitch.tv"
+    },
+    {
+      "id": 93,
+      "name": "MakerGPT",
+      "description": "MakerGPT is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-7jdh30nVL-1-makergpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 94,
+      "name": "The Good Surprise",
+      "description": "The Good Surprise is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-u8PCwKNsU-the-good-surprise",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 95,
+      "name": "Copilot Hub",
+      "description": "Copilot Hub is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Education",
+      "pricing": "Free + from $9.99/mo",
+      "url": "https://app.copilothub.ai/home",
+      "domain": "app.copilothub.ai"
+    },
+    {
+      "id": 96,
+      "name": "Shimoku",
+      "description": "Shimoku is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "No pricing",
+      "url": "https://www.shimoku.com/",
+      "domain": "www.shimoku.com"
+    },
+    {
+      "id": 97,
+      "name": "MyPlanner",
+      "description": "MyPlanner is listed in the local TAAFT dataset.",
+      "category": "Voice",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-EZVdY4T8A-myplanner",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 98,
+      "name": "Dwarf Name Generator",
+      "description": "Dwarf Name Generator is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "No pricing",
+      "url": "https://dwarfnamegenerator.me/",
+      "domain": "dwarfnamegenerator.me"
+    },
+    {
+      "id": 99,
+      "name": "Deepmotion",
+      "description": "Deepmotion is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free + from $9/mo",
+      "url": "https://www.deepmotion.com/",
+      "domain": "www.deepmotion.com"
+    },
+    {
+      "id": 100,
+      "name": "Body Type Sleuth",
+      "description": "Body Type Sleuth is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-4VE1Zps9R-body-type-sleuth",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 101,
+      "name": "AI Note Helper",
+      "description": "AI Note Helper is listed in the local TAAFT dataset.",
+      "category": "Marketing",
+      "pricing": "From $9/mo",
+      "url": "https://ainote.pro/",
+      "domain": "ainote.pro"
+    },
+    {
+      "id": 102,
+      "name": "GPT Insight Analyzer",
+      "description": "GPT Insight Analyzer is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-BGsvkd4Vv-gpt-insight-analyzer",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 103,
+      "name": "Meme",
+      "description": "Meme is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Design",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-8YqjGWlQn-meme",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 104,
+      "name": "Airlight",
+      "description": "Airlight is listed in the local TAAFT dataset.",
+      "category": "Writing",
+      "pricing": "Free + from $39",
+      "url": "https://www.airlight.pro/",
+      "domain": "www.airlight.pro"
+    },
+    {
+      "id": 105,
+      "name": "SpeechText",
+      "description": "SpeechText is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Video",
+      "pricing": "Free + from $10/mo",
+      "url": "https://speechtext.ai/",
+      "domain": "speechtext.ai"
+    },
+    {
+      "id": 106,
+      "name": "Chuckle Norris",
+      "description": "Chuckle Norris is listed in the local TAAFT dataset.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-YP3ZSgvaX-chuckle-norris",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 107,
+      "name": "Xona AI",
+      "description": "Xona AI is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free + from $9",
+      "url": "https://xona.ai/",
+      "domain": "xona.ai"
+    },
+    {
+      "id": 108,
+      "name": "Acallrecorder",
+      "description": "Acallrecorder is listed in the local TAAFT dataset.",
+      "category": "Voice",
+      "pricing": "From $4.99/mo",
+      "url": "https://acallrecorder.com/",
+      "domain": "acallrecorder.com"
+    },
+    {
+      "id": 109,
+      "name": "News GPT",
+      "description": "News GPT is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-Pv0OHaxUQ-news-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 110,
+      "name": "GAUSS THE TEACHER",
+      "description": "GAUSS THE TEACHER is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-ovVbK6bvD-gauss-the-teacher",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 111,
+      "name": "Swift Missy",
+      "description": "Swift Missy is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-o4iGLdR30-swift-missy",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 112,
+      "name": "Career Coach",
+      "description": "Career Coach is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Lifestyle",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-JqGGyR8EN-career-coach",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 113,
+      "name": "FREE Product Descriptions Generator",
+      "description": "FREE Product Descriptions Generator is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Marketing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-enoMjAArh-free-product-descriptions-generator",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 114,
+      "name": "GoatStack",
+      "description": "GoatStack is listed in the local TAAFT dataset.",
+      "category": "Voice",
+      "pricing": "From $4/mo",
+      "url": "https://goatstack.ai/",
+      "domain": "goatstack.ai"
+    },
+    {
+      "id": 115,
+      "name": "Your Headline Writer",
+      "description": "Your Headline Writer is listed in the local TAAFT dataset.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-1Z0B0G0Fv-your-headline-writer",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 116,
+      "name": "GPT Configurator",
+      "description": "GPT Configurator is listed in the local TAAFT dataset.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-5FJPNKeoS-gpt-configurator",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 117,
+      "name": "Vibes",
+      "description": "Vibes is listed in the local TAAFT dataset.",
+      "category": "Productivity",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-R5wpT0xWu-vibes",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 118,
+      "name": "ChesswithAI",
+      "description": "ChesswithAI is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://www.chesswith.ai/",
+      "domain": "www.chesswith.ai"
+    },
+    {
+      "id": 119,
+      "name": "Experto en Tendencias Pop",
+      "description": "Experto en Tendencias Pop is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-p5RDFjTZT-experto-en-tendencias-pop",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 120,
+      "name": "ZhongKui (TradeMaster)",
+      "description": "ZhongKui (TradeMaster) is listed in the local TAAFT dataset.",
+      "category": "Marketing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-JyVxR4W7P-zhongkui-trademaster",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 121,
+      "name": "Connect 4 GPT",
+      "description": "Connect 4 GPT is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-CXPaIuj5I-connect-4-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 122,
+      "name": "Speech Meter",
+      "description": "Speech Meter is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Education",
+      "pricing": "No pricing",
+      "url": "https://speechmeter.com/",
+      "domain": "speechmeter.com"
+    },
+    {
+      "id": 123,
+      "name": "SwiftFox the Swift Mentor",
+      "description": "SwiftFox the Swift Mentor is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-sQ0ttZhJ8-swiftfox-the-swift-mentor",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 124,
+      "name": "YouTubeGPT",
+      "description": "YouTubeGPT is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-VgadmpesQ-youtubegpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 125,
+      "name": "MostlyAI",
+      "description": "MostlyAI is listed in the local TAAFT dataset.",
+      "category": "Writing",
+      "pricing": "Free + from $3",
+      "url": "https://mostly.ai/",
+      "domain": "mostly.ai"
+    },
+    {
+      "id": 126,
+      "name": "Nostradamus Cloud",
+      "description": "Nostradamus Cloud is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Coding",
+      "pricing": "No pricing",
+      "url": "https://www.nostradamus.cloud/",
+      "domain": "www.nostradamus.cloud"
+    },
+    {
+      "id": 127,
+      "name": "Angel flying",
+      "description": "Angel flying is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@jonathanmabinie/angel-flying/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 128,
+      "name": "GenshinMe",
+      "description": "GenshinMe is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-R3btYKB89-genshinme",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 129,
+      "name": "Culinary Scout",
+      "description": "Culinary Scout is listed in the local TAAFT dataset.",
+      "category": "Design",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-0XS7na9t1-culinary-scout",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 130,
+      "name": "Net Worth Calculator",
+      "description": "Net Worth Calculator is listed in the local TAAFT dataset.",
+      "category": "Automation",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-91gxXeNzp-net-worth-calculator",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 131,
+      "name": "OtaGPT.com",
+      "description": "OtaGPT.com is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-REhvXF49q-otagpt-com",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 132,
+      "name": "Botdistrikt",
+      "description": "Botdistrikt is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Marketing",
+      "pricing": "No pricing",
+      "url": "https://www.botdistrikt.com/",
+      "domain": "www.botdistrikt.com"
+    },
+    {
+      "id": 133,
+      "name": "Code Explains AI",
+      "description": "Code Explains AI is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-NV29hCM31-code-explains-ai",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 134,
+      "name": "Spirit Photography",
+      "description": "Spirit Photography is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@killithco/spirit-photography/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 135,
+      "name": "Sage",
+      "description": "Sage is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-krBMn9Nkw-sage",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 136,
+      "name": "Basic Prankster",
+      "description": "Basic Prankster is listed in the local TAAFT dataset.",
+      "category": "Design",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-EkePCOhkk-basic-prankster",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 137,
+      "name": "Recipe Now!",
+      "description": "Recipe Now! is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Marketing",
+      "pricing": "Free",
+      "url": "https://recipe-now.vercel.app/",
+      "domain": "recipe-now.vercel.app"
+    },
+    {
+      "id": 138,
+      "name": "BPMN-GPT",
+      "description": "BPMN-GPT is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-cAyZZ8mEN-bpmn-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 139,
+      "name": "Harvest",
+      "description": "Harvest is listed in the local TAAFT dataset.",
+      "category": "Automation",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-fFLYn20DM-harvest",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 140,
+      "name": "Gulla",
+      "description": "Gulla is listed in the local TAAFT dataset.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-BGGj5hhc7-gulla",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 141,
+      "name": "Colonial Historian GPT",
+      "description": "Colonial Historian GPT is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-CYm4i1rZh-colonial-historian-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 142,
+      "name": "German TutorBot",
+      "description": "German TutorBot is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-Fkg5ts1II-german-tutorbot",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 143,
+      "name": "Neet 2025 planner for Indian students",
+      "description": "Neet 2025 planner for Indian students is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Education",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@mannatduseja/neet-2025-planner-for-indian-students-for-the-month-of-september-include-chapters-physics-from-gravitation-to-waves-chemistry-from-thermodynamics-to-goc-botany-morphology-anatomy-photosynthesis-plant-kingdom-zoo-whole-of-human-physiology/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 144,
+      "name": "Press Engagement Advisor",
+      "description": "Press Engagement Advisor is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-IGvpank0T-press-engagement-advisor",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 145,
+      "name": "Crispr Gene Editing for Agriculture",
+      "description": "Crispr Gene Editing for Agriculture is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-IjAvhM6V5-crispr-gene-editing-for-agriculture",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 146,
+      "name": "MicroByte",
+      "description": "MicroByte is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Coding",
+      "pricing": "From \u00a35/mo",
+      "url": "https://www.microbyte.app/",
+      "domain": "www.microbyte.app"
+    },
+    {
+      "id": 147,
+      "name": "Image me",
+      "description": "Image me is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@saltanatnurlano/image-me/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 148,
+      "name": "Ruby Master",
+      "description": "Ruby Master is listed in the local TAAFT dataset.",
+      "category": "Automation",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-5OsHaTXK5-ruby-master",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 149,
+      "name": "Academic Insight",
+      "description": "Academic Insight is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-RNLXN9WWD-academic-insight",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 150,
+      "name": "Architectonic Insight",
+      "description": "Architectonic Insight is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-5Ymur6pRX-architectonic-insight",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 151,
+      "name": "Hebbia",
+      "description": "Hebbia is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "No pricing",
+      "url": "https://www.hebbia.ai/",
+      "domain": "www.hebbia.ai"
+    },
+    {
+      "id": 152,
+      "name": "Through the Looking Glass",
+      "description": "Through the Looking Glass is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-COlXCit43-through-the-looking-glass",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 153,
+      "name": "Turbologo",
+      "description": "Turbologo is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "From $21.67",
+      "url": "https://turbologo.com/",
+      "domain": "turbologo.com"
+    },
+    {
+      "id": 154,
+      "name": "Studyy",
+      "description": "Studyy is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Automation",
+      "pricing": "Free + from $2.99",
+      "url": "https://apps.apple.com/us/app/studyy-instant-flashcards/id6475736635",
+      "domain": "apps.apple.com"
+    },
+    {
+      "id": 155,
+      "name": "Sales Negotiation Coach",
+      "description": "Sales Negotiation Coach is listed in the local TAAFT dataset.",
+      "category": "Marketing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-JYOjDjTyV-sales-negotiation-coach",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 156,
+      "name": "Seabiscuit Business Board Director Pro",
+      "description": "Seabiscuit Business Board Director Pro is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-om9TwQR1k-seabiscuit-business-board-director-pro",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 157,
+      "name": "Recipe Hunter",
+      "description": "Recipe Hunter is listed in the local TAAFT dataset.",
+      "category": "Marketing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-dgbW1TMnF-recipe-hunter",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 158,
+      "name": "techtalk.travel GPT",
+      "description": "techtalk.travel GPT is listed in the local TAAFT dataset.",
+      "category": "Productivity",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-0L6f7dIOj-techtalk-travel-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 159,
+      "name": "BlogChatGPT",
+      "description": "BlogChatGPT is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-GYXB9rBXT-blog",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 160,
+      "name": "Pitch Deck Advisor",
+      "description": "Pitch Deck Advisor is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-JfIM0Bf2x-pitch-deck-advisor",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 161,
+      "name": "Genepod",
+      "description": "Genepod is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Voice",
+      "pricing": "From $5",
+      "url": "https://www.genepod.io/",
+      "domain": "www.genepod.io"
+    },
+    {
+      "id": 162,
+      "name": "Mirror",
+      "description": "Mirror is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-Um4IIh3kN-mirror",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 163,
+      "name": "Strategy & Business Consulting Companion",
+      "description": "Strategy & Business Consulting Companion is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Business",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-qibiFARKj-strategy-business-consulting-companion",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 164,
+      "name": "Webinar Replay Bullet Maker",
+      "description": "Webinar Replay Bullet Maker is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-qK9GMRiMu-webinar-replay-bullet-maker",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 165,
+      "name": "Button Poetry Writer",
+      "description": "Button Poetry Writer is listed in the local TAAFT dataset.",
+      "category": "Marketing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-Avhs1Ai2h-button-poetry-writer",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 166,
+      "name": "Artiste Sticker Animalier",
+      "description": "Artiste Sticker Animalier is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-L5yweNLCT-artiste-sticker-animalier",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 167,
+      "name": "Novoresume",
+      "description": "Novoresume is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Analytics",
+      "pricing": "No pricing",
+      "url": "https://novoresume.com/",
+      "domain": "novoresume.com"
+    },
+    {
+      "id": 168,
+      "name": "World Class Business Lawyer",
+      "description": "World Class Business Lawyer is listed in the local TAAFT dataset.",
+      "category": "Business",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-SsJXUm9kn-world-class-business-lawyer",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 169,
+      "name": "Story Weaver",
+      "description": "Story Weaver is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-e4jm31pv2-story-weaver",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 170,
+      "name": "Tweeter",
+      "description": "Tweeter is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-Pi28BnGgi-tweeter",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 171,
+      "name": "Fine.dev",
+      "description": "Fine.dev is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Automation",
+      "pricing": "No pricing",
+      "url": "https://www.fine.dev/",
+      "domain": "www.fine.dev"
+    },
+    {
+      "id": 172,
+      "name": "Greek Email Creator",
+      "description": "Greek Email Creator is listed in the local TAAFT dataset.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-R0LwyKrrk-greek-email-creator",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 173,
+      "name": "Recruitment AI",
+      "description": "Recruitment AI is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Voice",
+      "pricing": "From $500/mo",
+      "url": "https://recruitment.ai/",
+      "domain": "recruitment.ai"
+    },
+    {
+      "id": 174,
+      "name": "LuxuryOptiBot by MC MosnarCommunications.com",
+      "description": "LuxuryOptiBot by MC MosnarCommunications.com is listed in the local TAAFT dataset.",
+      "category": "Marketing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-OeKre3JsL-luxuryoptibot-by-mc-mosnarcommunications-com",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 175,
+      "name": "Auto Agent",
+      "description": "Auto Agent is listed in the local TAAFT dataset.",
+      "category": "Analytics",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-aSCBrpxum-auto-agent-saysay-ai",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 176,
+      "name": "AFL Wizard",
+      "description": "AFL Wizard is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-Y6btwgWGO-afl-wizard",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 177,
+      "name": "ProductGPT",
+      "description": "ProductGPT is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-RBsxpDvi7-productgpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 178,
+      "name": "Funny Picture Artists",
+      "description": "Funny Picture Artists is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-ITviaXsV4-funny-picture-artists",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 179,
+      "name": "AutoExpert (Academic)",
+      "description": "AutoExpert (Academic) is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-YAgNxPJEq-autoexpert-academic",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 180,
+      "name": "Cool Caption Ideas",
+      "description": "Cool Caption Ideas is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://coolcaptionideas.com/",
+      "domain": "coolcaptionideas.com"
+    },
+    {
+      "id": 181,
+      "name": "Tech Tyrant",
+      "description": "Tech Tyrant is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-Jr2KIkyIt-tech-tyrant",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 182,
+      "name": "Quiz Wizard",
+      "description": "Quiz Wizard is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free + from $7.49/mo",
+      "url": "https://www.wooclap.com/en/quiz-wizard/",
+      "domain": "www.wooclap.com"
+    },
+    {
+      "id": 183,
+      "name": "Compas AI",
+      "description": "Compas AI is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Lifestyle",
+      "pricing": "No pricing",
+      "url": "https://compasai.com/",
+      "domain": "compasai.com"
+    },
+    {
+      "id": 184,
+      "name": "AskQuran.chat",
+      "description": "AskQuran.chat is listed in the local TAAFT dataset.",
+      "category": "Analytics",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-1Py0SdKst-askquran-chat",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 185,
+      "name": "Bio To Schema",
+      "description": "Bio To Schema is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-mbXfF9SRS-bio-to-schema",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 186,
+      "name": "Coin Value Guide",
+      "description": "Coin Value Guide is listed in the local TAAFT dataset.",
+      "category": "Voice",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-qyJDhS7yx-coin-value-guide",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 187,
+      "name": "Magickimg",
+      "description": "Magickimg is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free + from $3.9/mo",
+      "url": "https://magickimg.com/",
+      "domain": "magickimg.com"
+    },
+    {
+      "id": 188,
+      "name": "LocalBoss",
+      "description": "LocalBoss is listed in the local TAAFT dataset.",
+      "category": "Design",
+      "pricing": "No pricing",
+      "url": "https://localboss.app/",
+      "domain": "localboss.app"
+    },
+    {
+      "id": 189,
+      "name": "Numerical Analysis",
+      "description": "Numerical Analysis is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-39G951Wvk-numerical-analysis",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 190,
+      "name": "Calendly",
+      "description": "Calendly is listed in the local TAAFT dataset.",
+      "category": "Productivity",
+      "pricing": "Free + from $10/mo",
+      "url": "https://calendly.com/landing/ai",
+      "domain": "calendly.com"
+    },
+    {
+      "id": 191,
+      "name": "Leadeth GPT",
+      "description": "Leadeth GPT is listed in the local TAAFT dataset.",
+      "category": "Voice",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-hH7yQ09cb-leadeth-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 192,
+      "name": "Graphlan",
+      "description": "Graphlan is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Marketing",
+      "pricing": "No pricing",
+      "url": "https://graphlan.com/",
+      "domain": "graphlan.com"
+    },
+    {
+      "id": 193,
+      "name": "Mortgage",
+      "description": "Mortgage is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-UyXsBhbdO-mortgage",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 194,
+      "name": "Plant Master GPT",
+      "description": "Plant Master GPT is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Voice",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-1Gjmr1Ol4-plant-master-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 195,
+      "name": "Mandarin Mentor",
+      "description": "Mandarin Mentor is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-7PjqPbEd9-mandarin-mentor",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 196,
+      "name": "by Siv3D",
+      "description": "by Siv3D is listed in the local TAAFT dataset.",
+      "category": "Voice",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-Wq2wPIW5W-gemuaidea-by-siv3d",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 197,
+      "name": "Progressive HouseBOT",
+      "description": "Progressive HouseBOT is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Voice",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-0d3bxW6SN-progressive-houseji-tui-sibot",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 198,
+      "name": "bot",
+      "description": "bot is listed in the local TAAFT dataset.",
+      "category": "Analytics",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-cGNuBLqyK-soreben-dang-hata-ren-niren-serarerunziyanainobot",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 199,
+      "name": "Custody",
+      "description": "Custody is listed in the local TAAFT dataset.",
+      "category": "Voice",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-CXbEfCw9m-custody",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 200,
+      "name": "Supplier Relationship Management Advisor",
+      "description": "Supplier Relationship Management Advisor is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-8Umkcqsrq-supplier-relationship-management-advisor",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 201,
+      "name": "VoiceSense",
+      "description": "VoiceSense is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "Free + from $2/mo",
+      "url": "https://storage.googleapis.com/voicesense/index.html",
+      "domain": "storage.googleapis.com"
+    },
+    {
+      "id": 202,
+      "name": "Career Counselor",
+      "description": "Career Counselor is listed in the local TAAFT dataset.",
+      "category": "Lifestyle",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-ZLfTFfQoD-career-counselor",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 203,
+      "name": "Imfeeling",
+      "description": "Imfeeling is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Voice",
+      "pricing": "Free",
+      "url": "https://www.imfeeling.xyz/",
+      "domain": "www.imfeeling.xyz"
+    },
+    {
+      "id": 204,
+      "name": "BigJpg",
+      "description": "BigJpg is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://bigjpg.com/",
+      "domain": "bigjpg.com"
+    },
+    {
+      "id": 205,
+      "name": "ByteCap",
+      "description": "ByteCap is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Video",
+      "pricing": "Free + from $14/mo",
+      "url": "https://www.bytecap.io/",
+      "domain": "www.bytecap.io"
+    },
+    {
+      "id": 206,
+      "name": "Klue",
+      "description": "Klue is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "No pricing",
+      "url": "https://klue.com/",
+      "domain": "klue.com"
+    },
+    {
+      "id": 207,
+      "name": "Resume Builder",
+      "description": "Resume Builder is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Productivity",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-3S6sitZdB-resume-builder",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 208,
+      "name": "Translator",
+      "description": "Translator is listed in the local TAAFT dataset.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-b7RT3yJGy-translator",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 209,
+      "name": "Sticker Idea Bot",
+      "description": "Sticker Idea Bot is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-QrrIKWpAG-sticker-idea-bot",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 210,
+      "name": "SMM Agent",
+      "description": "SMM Agent is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Marketing",
+      "pricing": "Free + from $16/mo",
+      "url": "https://smmagent.ai/",
+      "domain": "smmagent.ai"
+    },
+    {
+      "id": 211,
+      "name": "GPT Public Directory",
+      "description": "GPT Public Directory is listed in the local TAAFT dataset.",
+      "category": "Design",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-tQBmTaWqj-gpt-public-directory",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 212,
+      "name": "AstroGPT",
+      "description": "AstroGPT is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Automation",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-ch0YZEHkP-astrogpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 213,
+      "name": "Communication Coach (specialist in intimate relationships",
+      "description": "Communication Coach (specialist in intimate relationships is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@t8365766/communication-coach-specialist-in-intimate-relationships/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 214,
+      "name": "Blot Bot",
+      "description": "Blot Bot is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-2tK8Kw9PV-blot-bot",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 215,
+      "name": "Affirmations and mindfulness and motivation",
+      "description": "Affirmations and mindfulness and motivation is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@nicolenestander/affirmations-and-mindfulness-and-motivation/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 216,
+      "name": "Fabularis",
+      "description": "Fabularis is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "No pricing",
+      "url": "https://fabularis.art/",
+      "domain": "fabularis.art"
+    },
+    {
+      "id": 217,
+      "name": "IMG TO IMAGE",
+      "description": "IMG TO IMAGE is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-1ytIJR4Ru-img-to-image",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 218,
+      "name": "DorothyAI",
+      "description": "DorothyAI is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Marketing",
+      "pricing": "No pricing",
+      "url": "https://www.dorothyai.com/",
+      "domain": "www.dorothyai.com"
+    },
+    {
+      "id": 219,
+      "name": "SummarAIze",
+      "description": "SummarAIze is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Marketing",
+      "pricing": "No pricing",
+      "url": "https://www.summaraize.com/",
+      "domain": "www.summaraize.com"
+    },
+    {
+      "id": 220,
+      "name": "WedPlannerAI",
+      "description": "WedPlannerAI is listed in the local TAAFT dataset.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-Xvmf1OPNJ-wedplannerai",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 221,
+      "name": "Landing Page Copy Expert",
+      "description": "Landing Page Copy Expert is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-foOPMeYMs-landing-page-copy-expert",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 222,
+      "name": "MarketResearchGPT",
+      "description": "MarketResearchGPT is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-oSafAjIP2-marketresearchgpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 223,
+      "name": "Global Cipher",
+      "description": "Global Cipher is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-9awvJtCCx-global-cipher-7",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 224,
+      "name": "BookSummaries",
+      "description": "BookSummaries is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-s8z2vllYT-booksummaries",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 225,
+      "name": "Ayurvedic GPT",
+      "description": "Ayurvedic GPT is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-pAmjsD4QM-ayurvedic-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 226,
+      "name": "Fiction Fusion",
+      "description": "Fiction Fusion is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "From $19.90",
+      "url": "https://fictionfusion.io/",
+      "domain": "fictionfusion.io"
+    },
+    {
+      "id": 227,
+      "name": "Time Machine",
+      "description": "Time Machine is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-eVgirlUSC-time-machine",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 228,
+      "name": "IIT JEE Tutor",
+      "description": "IIT JEE Tutor is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-8SQ3PcCRQ-iit-jee-tutor",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 229,
+      "name": "iProduct Manager: PRD, KPI, OKR & Tech Expert",
+      "description": "iProduct Manager: PRD, KPI, OKR & Tech Expert is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-fmqsaczGs-iproduct-manager-prd-kpi-okr-tech-expert",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 230,
+      "name": "PowerDreamer AI Cover Letter Generator",
+      "description": "PowerDreamer AI Cover Letter Generator is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "No pricing",
+      "url": "https://powerdreamer.com/cover-letter",
+      "domain": "powerdreamer.com"
+    },
+    {
+      "id": 231,
+      "name": "LanguageMate",
+      "description": "LanguageMate is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Education",
+      "pricing": "Free + from $7/mo",
+      "url": "https://languagemate.io/",
+      "domain": "languagemate.io"
+    },
+    {
+      "id": 232,
+      "name": "Recruiter Assistant",
+      "description": "Recruiter Assistant is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-OMCVYamnD-recruiter-assistant-pre-interview-ai-evaluation",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 233,
+      "name": "Biblical Theology Tutor",
+      "description": "Biblical Theology Tutor is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-erc2wIFkm-biblical-theology-tutor",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 234,
+      "name": "EduGuide",
+      "description": "EduGuide is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-nxSIYWsdF-eduguide",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 235,
+      "name": "CiberpunkRPG Espaol",
+      "description": "CiberpunkRPG Espaol is listed in the local TAAFT dataset.",
+      "category": "Voice",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-JLlX6tT9a-ciberpunkrpg-espanol",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 236,
+      "name": "PrivateGPT",
+      "description": "PrivateGPT is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "No pricing",
+      "url": "https://chat.private-ai.com/",
+      "domain": "chat.private-ai.com"
+    },
+    {
+      "id": 237,
+      "name": "Time Zone",
+      "description": "Time Zone is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-RTd6Nku62-time-zone",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 238,
+      "name": "Scholar Sum",
+      "description": "Scholar Sum is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-2LfgOeG3b-scholar-sum",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 239,
+      "name": "Draco Malfoy",
+      "description": "Draco Malfoy is listed in the local TAAFT dataset.",
+      "category": "Voice",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-AWtuouDYe-draco-malfoy",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 240,
+      "name": "Invention Master by Design Conquest",
+      "description": "Invention Master by Design Conquest is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-tgcGYuYl4-invention-master-by-design-conquest",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 241,
+      "name": "Japan Tour Guide",
+      "description": "Japan Tour Guide is listed in the local TAAFT dataset.",
+      "category": "Lifestyle",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-PuhPdkXjP-japan-tour-guide",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 242,
+      "name": "D\u00e9veloppeur AI",
+      "description": "D\u00e9veloppeur AI is listed in the local TAAFT dataset.",
+      "category": "Voice",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@deilucri/d-veloppeur-ai/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 243,
+      "name": "SlidesGPT PowerPoint AI Copilot",
+      "description": "SlidesGPT PowerPoint AI Copilot is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-cJtHaGnyo-slidesgpt-powerpoint-ai-copilot",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 244,
+      "name": "Friday Go",
+      "description": "Friday Go is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "No pricing",
+      "url": "https://chrome.google.com/webstore/detail/friday-go/cobeolghfehacidcnidganniblghhnjm",
+      "domain": "chrome.google.com"
+    },
+    {
+      "id": 245,
+      "name": "Script Sage",
+      "description": "Script Sage is listed in the local TAAFT dataset.",
+      "category": "Analytics",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-25dyN8HPC-script-sage",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 246,
+      "name": "Destiny",
+      "description": "Destiny is listed in the local TAAFT dataset.",
+      "category": "Productivity",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-1zE1bBhgM-destiny",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 247,
+      "name": "Rankify",
+      "description": "Rankify is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Marketing",
+      "pricing": "From $39.99/mo",
+      "url": "https://rankifyai.co/",
+      "domain": "rankifyai.co"
+    },
+    {
+      "id": 248,
+      "name": "AI NCLEX 2024 Questions and Answers",
+      "description": "AI NCLEX 2024 Questions and Answers is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@joanigein/ai-nclex-2024-questions-and-answers/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 249,
+      "name": "Skillfusion",
+      "description": "Skillfusion is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "No pricing",
+      "url": "https://www.skillfusion.ai/",
+      "domain": "www.skillfusion.ai"
+    },
+    {
+      "id": 250,
+      "name": "ChatScribe Pro",
+      "description": "ChatScribe Pro is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Paid",
+      "url": "https://chatscribe.pro/",
+      "domain": "chatscribe.pro"
+    },
+    {
+      "id": 251,
+      "name": "MAZNEXA",
+      "description": "MAZNEXA is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Marketing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-kGyjFcqwM-maznexa",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 252,
+      "name": "Building Designer",
+      "description": "Building Designer is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-syqp5S4K2-building-designer",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 253,
+      "name": "Customer Engagement Expert",
+      "description": "Customer Engagement Expert is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-RqObx2nv3-customer-engagement-expert",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 254,
+      "name": "Bedrock",
+      "description": "Bedrock is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Design",
+      "pricing": "No pricing",
+      "url": "https://aws.amazon.com/bedrock/",
+      "domain": "aws.amazon.com"
+    },
+    {
+      "id": 255,
+      "name": "Tibia - NPChat",
+      "description": "Tibia - NPChat is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-hAIGh0gli-tibia-npchat",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 256,
+      "name": "Prompt & Pixel Artisan",
+      "description": "Prompt & Pixel Artisan is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-VYnhwwT2n-prompt-pixel-artisan",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 257,
+      "name": "OpenL",
+      "description": "OpenL is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free + from $7.9/mo",
+      "url": "https://openl.io/",
+      "domain": "openl.io"
+    },
+    {
+      "id": 258,
+      "name": "Strategic Advisor",
+      "description": "Strategic Advisor is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Business",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-X1LDzvsvT-strategic-advisor",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 259,
+      "name": "Chess Mate",
+      "description": "Chess Mate is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-u3Ve4M8ZA-chess-mate",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 260,
+      "name": "PharmacistGPT",
+      "description": "PharmacistGPT is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-GjSaSZ1eW-pharmacistgpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 261,
+      "name": "Anime Generator by Artguru",
+      "description": "Anime Generator by Artguru is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://www.artguru.ai/blogs/ai-anime-generator/",
+      "domain": "www.artguru.ai"
+    },
+    {
+      "id": 262,
+      "name": "Flannel",
+      "description": "Flannel is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-oZL2cVlRw-flannel",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 263,
+      "name": "Token Economy Design Guide",
+      "description": "Token Economy Design Guide is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-5x5LkFdVQ-token-economy-design-guide",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 264,
+      "name": "Pizza GPT",
+      "description": "Pizza GPT is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-AyRncfOAN-pizza-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 265,
+      "name": "BubbleTea",
+      "description": "BubbleTea is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Automation",
+      "pricing": "Free + from $25/mo",
+      "url": "https://bubbletea.cloud/",
+      "domain": "bubbletea.cloud"
+    },
+    {
+      "id": 266,
+      "name": "ColossalChat",
+      "description": "ColossalChat is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.colossalai.org/",
+      "domain": "chat.colossalai.org"
+    },
+    {
+      "id": 267,
+      "name": "Wondercraft",
+      "description": "Wondercraft is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Voice",
+      "pricing": "Free + from $29/mo",
+      "url": "https://podcast.wondercraft.ai/",
+      "domain": "podcast.wondercraft.ai"
+    },
+    {
+      "id": 268,
+      "name": "Asesor Laboral ES",
+      "description": "Asesor Laboral ES is listed in the local TAAFT dataset.",
+      "category": "Design",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-kY3EQKDPV-asesor-laboral-es",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 269,
+      "name": "HappyRobot",
+      "description": "HappyRobot is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Automation",
+      "pricing": "No pricing",
+      "url": "https://www.happyrobot.ai/",
+      "domain": "www.happyrobot.ai"
+    },
+    {
+      "id": 270,
+      "name": "Green Fields Advisor",
+      "description": "Green Fields Advisor is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-rPKbhp6c2-green-fields-advisor",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 271,
+      "name": "Stenography",
+      "description": "Stenography is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "From $10/mo",
+      "url": "https://stenography.dev/",
+      "domain": "stenography.dev"
+    },
+    {
+      "id": 272,
+      "name": "Surprise Planner",
+      "description": "Surprise Planner is listed in the local TAAFT dataset.",
+      "category": "Productivity",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-cMD7ZO5rH-surprise-planner",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 273,
+      "name": "Bot Psycho - Le pervers narcissique",
+      "description": "Bot Psycho - Le pervers narcissique is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-BlrESIZew-bot-psycho-le-pervers-narcissique",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 274,
+      "name": "NomadGPT",
+      "description": "NomadGPT is listed in the local TAAFT dataset.",
+      "category": "Voice",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-RnFjPkxAt-nomad-list",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 275,
+      "name": "Couple Generator Avatar",
+      "description": "Couple Generator Avatar is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@andrei53/couple-generator-avatar/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 276,
+      "name": "God Simulator",
+      "description": "God Simulator is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-185C6RUvv-god-simulator",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 277,
+      "name": "Parenting Pal",
+      "description": "Parenting Pal is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Analytics",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-IxUSSAYRs-parenting-pal",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 278,
+      "name": "Gift Finder",
+      "description": "Gift Finder is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-HMLRE3ntT-gift-finder",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 279,
+      "name": "Unthread",
+      "description": "Unthread is listed in the local TAAFT dataset.",
+      "category": "Voice",
+      "pricing": "Free + from $30/mo",
+      "url": "https://unthread.io/",
+      "domain": "unthread.io"
+    },
+    {
+      "id": 280,
+      "name": "Big Momma",
+      "description": "Big Momma is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Design",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-eVZqpfsy9-big-momma",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 281,
+      "name": "Image Prompter",
+      "description": "Image Prompter is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Coding",
+      "pricing": "No pricing",
+      "url": "https://sites.google.com/view/imageprompter",
+      "domain": "sites.google.com"
+    },
+    {
+      "id": 282,
+      "name": "Code Buddy",
+      "description": "Code Buddy is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-iZHFHx3SC-code-buddy",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 283,
+      "name": "Zinnia",
+      "description": "Zinnia is listed in the local TAAFT dataset.",
+      "category": "Marketing",
+      "pricing": "No pricing",
+      "url": "https://www.getzinnia.ai/",
+      "domain": "www.getzinnia.ai"
+    },
+    {
+      "id": 284,
+      "name": "Strategic Partner",
+      "description": "Strategic Partner is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-p7glv0r9g-strategic-partner-software-business-consultant",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 285,
+      "name": "Text Extractor GPT",
+      "description": "Text Extractor GPT is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-kFwi8yCRw-text-extractor-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 286,
+      "name": "Dreaming",
+      "description": "Dreaming is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-h3giXEJRo-dreaming",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 287,
+      "name": "Indie Music Discoverer",
+      "description": "Indie Music Discoverer is listed in the local TAAFT dataset.",
+      "category": "Voice",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-eH83jbm2s-indie-music-discoverer",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 288,
+      "name": "AGI Pulse Monitor",
+      "description": "AGI Pulse Monitor is listed in the local TAAFT dataset.",
+      "category": "Analytics",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-CmcPT2Xf9-agi-pulse-monitor",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 289,
+      "name": "Diabetes Asesor",
+      "description": "Diabetes Asesor is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-DpRClnu2Z-diabetes-asesor",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 290,
+      "name": "Lightski",
+      "description": "Lightski is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://www.lightski.com/",
+      "domain": "www.lightski.com"
+    },
+    {
+      "id": 291,
+      "name": "Sophia, my secretary",
+      "description": "Sophia, my secretary is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Productivity",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-4EparGg3X-sophia-my-secretary",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 292,
+      "name": "ZombieAIpocalypse: Survival Strategy Game",
+      "description": "ZombieAIpocalypse: Survival Strategy Game is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-pZCWRXlVm-zombieaipocalypse-survival-strategy-game",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 293,
+      "name": "Ramblefix",
+      "description": "Ramblefix is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Voice",
+      "pricing": "From $5/mo",
+      "url": "https://ramblefix.com/",
+      "domain": "ramblefix.com"
+    },
+    {
+      "id": 294,
+      "name": "Funnel Finder by SeabirdMarketing.com",
+      "description": "Funnel Finder by SeabirdMarketing.com is listed in the local TAAFT dataset.",
+      "category": "Marketing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-BXVhGx77Y-funnel-finder-by-seabirdmarketing-com",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 295,
+      "name": "Stat Senegal GPT",
+      "description": "Stat Senegal GPT is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-nfkjUEfUT-stat-senegal-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 296,
+      "name": "EyesightIQ",
+      "description": "EyesightIQ is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-qi6RGS1uQ-eyesightiq",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 297,
+      "name": "Support-GPT",
+      "description": "Support-GPT is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-ADC0g3RfG-support-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 298,
+      "name": "PromoMix",
+      "description": "PromoMix is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Voice",
+      "pricing": "No pricing",
+      "url": "https://www.promomix.ai/",
+      "domain": "www.promomix.ai"
+    },
+    {
+      "id": 299,
+      "name": "ZeroGPT - Free ChatGPT Detector",
+      "description": "ZeroGPT - Free ChatGPT Detector is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://zerogpt.tools/",
+      "domain": "zerogpt.tools"
+    },
+    {
+      "id": 300,
+      "name": "Nocode Dev. Bible",
+      "description": "Nocode Dev. Bible is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-WT2spptGg-nocode-dev-bible",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 301,
+      "name": "CogBias AI",
+      "description": "CogBias AI is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "No pricing",
+      "url": "https://www.cogbias.ai/",
+      "domain": "www.cogbias.ai"
+    },
+    {
+      "id": 302,
+      "name": "Clarity.gs",
+      "description": "Clarity.gs is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://clarity.rahul.gs/",
+      "domain": "clarity.rahul.gs"
+    },
+    {
+      "id": 303,
+      "name": "Critical Thinker Pro",
+      "description": "Critical Thinker Pro is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-AsEThJNmu-critical-thinker-pro",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 304,
+      "name": "GifStar",
+      "description": "GifStar is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free + from $2.99/mo",
+      "url": "https://www.gifstar.me/",
+      "domain": "www.gifstar.me"
+    },
+    {
+      "id": 305,
+      "name": "PicNotes",
+      "description": "PicNotes is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://picnotes.framer.ai/",
+      "domain": "picnotes.framer.ai"
+    },
+    {
+      "id": 306,
+      "name": "AskAIForm",
+      "description": "AskAIForm is listed in the local TAAFT dataset.",
+      "category": "Writing",
+      "pricing": "Free + from $7.8",
+      "url": "https://askaiform.vercel.app/",
+      "domain": "askaiform.vercel.app"
+    },
+    {
+      "id": 307,
+      "name": "Rely.io",
+      "description": "Rely.io is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Coding",
+      "pricing": "No pricing",
+      "url": "https://www.rely.io/",
+      "domain": "www.rely.io"
+    },
+    {
+      "id": 308,
+      "name": "Wartribes Dev",
+      "description": "Wartribes Dev is listed in the local TAAFT dataset.",
+      "category": "Automation",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-Vx1bZ9Pzn-wartribes-dev",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 309,
+      "name": "Contlo AI",
+      "description": "Contlo AI is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "From $1000/mo",
+      "url": "https://contlo.ai/",
+      "domain": "contlo.ai"
+    },
+    {
+      "id": 310,
+      "name": "Ray Peat Guru",
+      "description": "Ray Peat Guru is listed in the local TAAFT dataset.",
+      "category": "Analytics",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-hlmmPJEpK-ray-peat-guru",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 311,
+      "name": "Guia Espacial do Entusiasta",
+      "description": "Guia Espacial do Entusiasta is listed in the local TAAFT dataset.",
+      "category": "Voice",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-8Ariqd7Rf-guia-espacial-do-entusiasta",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 312,
+      "name": "Silent Observer",
+      "description": "Silent Observer is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-B7vcvyvOO-silent-observer",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 313,
+      "name": "Magic Avatars",
+      "description": "Magic Avatars is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free + from $4.99/mo",
+      "url": "https://land.prisma-ai.com/magic-avatars/",
+      "domain": "land.prisma-ai.com"
+    },
+    {
+      "id": 314,
+      "name": "Harrypotternamegenerator",
+      "description": "Harrypotternamegenerator is listed in the local TAAFT dataset.",
+      "category": "Analytics",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@timmax/harrypotternamegenerator/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 315,
+      "name": "Q Slack Chatbot",
+      "description": "Q Slack Chatbot is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Analytics",
+      "pricing": "From $80/yr",
+      "url": "https://q-bot.suchica.com/",
+      "domain": "q-bot.suchica.com"
+    },
+    {
+      "id": 316,
+      "name": "Roast My Website",
+      "description": "Roast My Website is listed in the local TAAFT dataset.",
+      "category": "Design",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-chYOMPGL6-roast-my-website",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 317,
+      "name": "Humy",
+      "description": "Humy is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Voice",
+      "pricing": "Free + from $10.75/m...",
+      "url": "https://www.humy.ai/",
+      "domain": "www.humy.ai"
+    },
+    {
+      "id": 318,
+      "name": "ArkiFi",
+      "description": "ArkiFi is listed in the local TAAFT dataset.",
+      "category": "Productivity",
+      "pricing": "No pricing",
+      "url": "https://www.arkifi.ai/",
+      "domain": "www.arkifi.ai"
+    },
+    {
+      "id": 319,
+      "name": "Hypnosis File Script Generator",
+      "description": "Hypnosis File Script Generator is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@gorcharvadaryan/hypnosis-file-script-generator/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 320,
+      "name": "FormWise",
+      "description": "FormWise is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Design",
+      "pricing": "Free + from $99/mo",
+      "url": "https://www.formwise.ai/",
+      "domain": "www.formwise.ai"
+    },
+    {
+      "id": 321,
+      "name": "DevOps Mentor",
+      "description": "DevOps Mentor is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-mccn1W1Ux-devops-mentor",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 322,
+      "name": "Resume revival",
+      "description": "Resume revival is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Design",
+      "pricing": "Free + from $5.95/mo",
+      "url": "https://www.resumerevival.xyz/",
+      "domain": "www.resumerevival.xyz"
+    },
+    {
+      "id": 323,
+      "name": "BaseCharacterGPTs (Whisker Sentinel v3)",
+      "description": "BaseCharacterGPTs (Whisker Sentinel v3) is listed in the local TAAFT dataset.",
+      "category": "Marketing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-gTk5GZXar-basecharactergpts-whisker-sentinel-v3",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 324,
+      "name": "Skill Builder",
+      "description": "Skill Builder is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-GJgXMqNIW-skill-builder",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 325,
+      "name": "Animal Identifier",
+      "description": "Animal Identifier is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-LqsxzoqtJ-animal-identifier",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 326,
+      "name": "Pivot365.io",
+      "description": "Pivot365.io is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Coding",
+      "pricing": "No pricing",
+      "url": "https://pivot365.io/",
+      "domain": "pivot365.io"
+    },
+    {
+      "id": 327,
+      "name": "iVu.AI",
+      "description": "iVu.AI is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Design",
+      "pricing": "Free + from $20/mo",
+      "url": "https://ivu.ai/",
+      "domain": "ivu.ai"
+    },
+    {
+      "id": 328,
+      "name": "TonyPerks",
+      "description": "TonyPerks is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-lJdXqUFpc-tonyperks",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 329,
+      "name": "ChatEUC",
+      "description": "ChatEUC is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-eTFlUziC6-chateuc",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 330,
+      "name": "D&D Game Master",
+      "description": "D&D Game Master is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-n6OcUIKZn-d-d-game-master",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 331,
+      "name": "Ava",
+      "description": "Ava is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Video",
+      "pricing": "Free + from $14.99/m...",
+      "url": "https://www.ava.me/",
+      "domain": "www.ava.me"
+    },
+    {
+      "id": 332,
+      "name": "Startup Mentor",
+      "description": "Startup Mentor is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-FirDmP6nD-startup-mentor",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 333,
+      "name": "Cosmic Companion",
+      "description": "Cosmic Companion is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-b2eazr2Ph-cosmic-companion",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 334,
+      "name": "WiredVibe",
+      "description": "WiredVibe is listed in the local TAAFT dataset.",
+      "category": "Design",
+      "pricing": "Free + from $6.99/mo",
+      "url": "https://www.wiredvibeapp.com/",
+      "domain": "www.wiredvibeapp.com"
+    },
+    {
+      "id": 335,
+      "name": "The Scarlet Letter",
+      "description": "The Scarlet Letter is listed in the local TAAFT dataset.",
+      "category": "Marketing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-ll4ia7eUr-the-scarlet-letter",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 336,
+      "name": "Logo Designer",
+      "description": "Logo Designer is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-5AETYir7n-logo-designer",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 337,
+      "name": "SlidesAI",
+      "description": "SlidesAI is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Design",
+      "pricing": "Free + from $8.32/mo",
+      "url": "https://www.slidesai.io/",
+      "domain": "www.slidesai.io"
+    },
+    {
+      "id": 338,
+      "name": "SpriteSheetGPT",
+      "description": "SpriteSheetGPT is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-2MxXTBarB-spritesheetgpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 339,
+      "name": "Cognitive Navigator",
+      "description": "Cognitive Navigator is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-IfmgVWGzD-cognitive-navigator",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 340,
+      "name": "Logorax",
+      "description": "Logorax is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://logorax.com/",
+      "domain": "logorax.com"
+    },
+    {
+      "id": 341,
+      "name": "Proofreader GPT",
+      "description": "Proofreader GPT is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-NSy4aqJZT-proofreader-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 342,
+      "name": "! Teyvat Guide",
+      "description": "! Teyvat Guide is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-HU0Rfvo7j-teyvat-guide",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 343,
+      "name": "Toddler lily",
+      "description": "Toddler lily is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Education",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@vincentdelacruz-1/toddler-lily/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 344,
+      "name": "KPI Builder",
+      "description": "KPI Builder is listed in the local TAAFT dataset.",
+      "category": "Business",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-XrscgcAoD-kpi-builder",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 345,
+      "name": "Market Gardener Maven",
+      "description": "Market Gardener Maven is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-tk2bytHRM-market-gardener-maven",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 346,
+      "name": "Content Coach",
+      "description": "Content Coach is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-mMCghWZx1-content-coach",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 347,
+      "name": "Made Porn",
+      "description": "Made Porn is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free + from $20/mo",
+      "url": "https://made.porn/",
+      "domain": "made.porn"
+    },
+    {
+      "id": 348,
+      "name": "Deal Hunter",
+      "description": "Deal Hunter is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-5oDE6upAR-deal-hunter",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 349,
+      "name": "InteriorRenderAI",
+      "description": "InteriorRenderAI is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://interior-render.com/",
+      "domain": "interior-render.com"
+    },
+    {
+      "id": 350,
+      "name": "Sidekiiick",
+      "description": "Sidekiiick is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Automation",
+      "pricing": "Free",
+      "url": "https://sidekiiick.com/",
+      "domain": "sidekiiick.com"
+    },
+    {
+      "id": 351,
+      "name": "Paul Graham GPT",
+      "description": "Paul Graham GPT is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-aKy7DVbzD-paul-graham",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 352,
+      "name": "Social Media Maven",
+      "description": "Social Media Maven is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Marketing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-1koWDmyCJ-social-media-maven",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 353,
+      "name": "Casino Legal Info Assistant - CasinoHEX",
+      "description": "Casino Legal Info Assistant - CasinoHEX is listed in the local TAAFT dataset.",
+      "category": "Business",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-pBuuifCVf-casino-legal-info-assistant-casinohex",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 354,
+      "name": "Theoasis",
+      "description": "Theoasis is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Video",
+      "pricing": "Free + from $14.99/m...",
+      "url": "https://theoasis.com/",
+      "domain": "theoasis.com"
+    },
+    {
+      "id": 355,
+      "name": "Philosoph",
+      "description": "Philosoph is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-soKUxwCvV-philosoph",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 356,
+      "name": "Miyo Saimori",
+      "description": "Miyo Saimori is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-YyXfSKWEd-miyo-saimori",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 357,
+      "name": "EditGPT",
+      "description": "EditGPT is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-ZhPbXQIr5-editgpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 358,
+      "name": "Hemp Protein Bites",
+      "description": "Hemp Protein Bites is listed in the local TAAFT dataset.",
+      "category": "Marketing",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@mrudhulaiyer/hemp-protein-bite/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 359,
+      "name": "AsianGPT",
+      "description": "AsianGPT is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-M3wI91Bo5-asiangpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 360,
+      "name": "Paper Decoder",
+      "description": "Paper Decoder is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-HfyO2dAL4-paper-decoder",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 361,
+      "name": "US Regulations GPT",
+      "description": "US Regulations GPT is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-rHGRlHBTv-us-regulations-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 362,
+      "name": "MAGI-alpha",
+      "description": "MAGI-alpha is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-SAHrAhUNx-magi-alpha",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 363,
+      "name": "GPT Customizer, File Finder & JSON Action Creator",
+      "description": "GPT Customizer, File Finder & JSON Action Creator is listed in the local TAAFT dataset.",
+      "category": "Marketing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-iThwkWDbA-gpt-customizer-file-finder-json-action-creator",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 364,
+      "name": "Gta5game",
+      "description": "Gta5game is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@krishnakumar-21627352-1717840428/gta5/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 365,
+      "name": "EasyReview",
+      "description": "EasyReview is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "From $9.99/mo",
+      "url": "https://easyreview.ai/",
+      "domain": "easyreview.ai"
+    },
+    {
+      "id": 366,
+      "name": "Data Visualisation Assistant",
+      "description": "Data Visualisation Assistant is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-2ykyJ0v50-data-visualisation-assistant",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 367,
+      "name": "Pi Kernel Guide",
+      "description": "Pi Kernel Guide is listed in the local TAAFT dataset.",
+      "category": "Productivity",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-Qp9xLmZPq-pi-kernel-guide",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 368,
+      "name": "23 Questions V0.1",
+      "description": "23 Questions V0.1 is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Automation",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-F8gMzCdBL-23-questions-v0-1",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 369,
+      "name": "GPTs",
+      "description": "GPTs is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-flcqg3beD-puronputodezaingpts",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 370,
+      "name": "NoSQL Code Helper",
+      "description": "NoSQL Code Helper is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-IwvrpjECm-nosql-code-helper",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 371,
+      "name": "Shader Wizard for Godot",
+      "description": "Shader Wizard for Godot is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-lKAxJ6nuM-shader-wizard-for-godot",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 372,
+      "name": "LeadershipGPT",
+      "description": "LeadershipGPT is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Productivity",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-eq0mIW4Mz-leadershipgpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 373,
+      "name": "GPTBots",
+      "description": "GPTBots is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Automation",
+      "pricing": "No pricing",
+      "url": "https://www.gptbots.ai/",
+      "domain": "www.gptbots.ai"
+    },
+    {
+      "id": 374,
+      "name": "Twinit",
+      "description": "Twinit is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://twinit.ai/",
+      "domain": "twinit.ai"
+    },
+    {
+      "id": 375,
+      "name": "Yugo",
+      "description": "Yugo is listed in the local TAAFT dataset.",
+      "category": "Automation",
+      "pricing": "No pricing",
+      "url": "https://www.yugo-ai.com/",
+      "domain": "www.yugo-ai.com"
+    },
+    {
+      "id": 376,
+      "name": "Ink",
+      "description": "Ink is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free + from $9.99/mo",
+      "url": "https://apps.apple.com/us/app/ink-ai-writing-app-with-gpt/id1663795399",
+      "domain": "apps.apple.com"
+    },
+    {
+      "id": 377,
+      "name": "Game Creator's Muse",
+      "description": "Game Creator's Muse is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Marketing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-9hsmxQz4G-game-creator-s-muse",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 378,
+      "name": "Zapclip",
+      "description": "Zapclip is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Video",
+      "pricing": "Free + from $14.99/m...",
+      "url": "https://www.zapclip.com/",
+      "domain": "www.zapclip.com"
+    },
+    {
+      "id": 379,
+      "name": "Read Highlights",
+      "description": "Read Highlights is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Productivity",
+      "pricing": "Free + from $15/mo",
+      "url": "https://www.read.ai/",
+      "domain": "www.read.ai"
+    },
+    {
+      "id": 380,
+      "name": "timeMaster",
+      "description": "timeMaster is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Video",
+      "pricing": "Free + from $14/mo",
+      "url": "https://www.timemaster.ai/",
+      "domain": "www.timemaster.ai"
+    },
+    {
+      "id": 381,
+      "name": "Dream Weaver",
+      "description": "Dream Weaver is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-6sNdoYuQG-dream-weaver",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 382,
+      "name": "VSLAI",
+      "description": "VSLAI is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Marketing",
+      "pricing": "Free + from $39/mo",
+      "url": "https://www.vsl.ai/",
+      "domain": "www.vsl.ai"
+    },
+    {
+      "id": 383,
+      "name": "AfterEffects Script Assistant",
+      "description": "AfterEffects Script Assistant is listed in the local TAAFT dataset.",
+      "category": "Design",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-jIBx779I5-aftereffects-script-assistant",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 384,
+      "name": "My website Messenger and helper",
+      "description": "My website Messenger and helper",
+      "category": "Writing",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@nicolenestander/my-website-messenger-and-helper/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 385,
+      "name": "Voxxio",
+      "description": "Voxxio is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Design",
+      "pricing": "Free + from $15/mo",
+      "url": "https://voxxio.io/",
+      "domain": "voxxio.io"
+    },
+    {
+      "id": 386,
+      "name": "Engineering Manager Coach",
+      "description": "Engineering Manager Coach is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-00VXLLDtM-engineering-manager-coach",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 387,
+      "name": "TaleStitch",
+      "description": "TaleStitch is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Design",
+      "pricing": "Free",
+      "url": "https://play.google.com/store/apps/details?id=com.storyflux.app",
+      "domain": "play.google.com"
+    },
+    {
+      "id": 388,
+      "name": "Eco Ally",
+      "description": "Eco Ally is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-tWuFSCrXB-eco-ally",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 389,
+      "name": "BioWrite Assistant",
+      "description": "BioWrite Assistant is listed in the local TAAFT dataset.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-0CIbrxXGD-biowrite-assistant",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 390,
+      "name": "Blockode",
+      "description": "Blockode is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "From $19.9",
+      "url": "https://photostudio.blockode.co/",
+      "domain": "photostudio.blockode.co"
+    },
+    {
+      "id": 391,
+      "name": "Purple Yoda",
+      "description": "Purple Yoda is listed in the local TAAFT dataset.",
+      "category": "Productivity",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-EC63EpJi6-purple-yoda",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 392,
+      "name": "bot",
+      "description": "bot is listed in the local TAAFT dataset.",
+      "category": "Voice",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-rnfsK2BBu-fei-gong-shi-da-tian-qu-yi-suo-dediao-bemonobot",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 393,
+      "name": "Bot",
+      "description": "Bot is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-lLAKSrA4E-komiyunikesiyon-bot",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 394,
+      "name": "GPT Creator Canvas",
+      "description": "GPT Creator Canvas is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-ofcLvkg1i-gpt-creator-canvas-guide",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 395,
+      "name": "Economic Helper",
+      "description": "Economic Helper is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-1DU7KfSm5-economic-helper",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 396,
+      "name": "Cricket Buff",
+      "description": "Cricket Buff is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-XbI3595aT-cricket-buff",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 397,
+      "name": "Trelent",
+      "description": "Trelent is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Productivity",
+      "pricing": "From $75/mo",
+      "url": "https://www.trelent.com/",
+      "domain": "www.trelent.com"
+    },
+    {
+      "id": 398,
+      "name": "Finding Happy Coach",
+      "description": "Finding Happy Coach is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-Jq12jCpd0-finding-happy-coach",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 399,
+      "name": "SantaGPT",
+      "description": "SantaGPT is listed in the local TAAFT dataset.",
+      "category": "Business",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-hDhLGSsAY-santagpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 400,
+      "name": "Story Weaver",
+      "description": "Story Weaver is listed in the local TAAFT dataset.",
+      "category": "Design",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-teMGaSaYt-story-weaver",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 401,
+      "name": "Douglas",
+      "description": "Douglas is listed in the local TAAFT dataset.",
+      "category": "Automation",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-lSg1yKEFa-douglas",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 402,
+      "name": "Func News",
+      "description": "Func News is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "No pricing",
+      "url": "https://www.func.news/",
+      "domain": "www.func.news"
+    },
+    {
+      "id": 403,
+      "name": "AdGenius AI",
+      "description": "AdGenius AI is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Marketing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-Es4EIpdsl-adgenius-ai",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 404,
+      "name": "Product Engineer GPT",
+      "description": "Product Engineer GPT is listed in the local TAAFT dataset.",
+      "category": "Marketing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-4hXZITeda-product-engineer",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 405,
+      "name": "Office Manager",
+      "description": "Office Manager is listed in the local TAAFT dataset.",
+      "category": "Analytics",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-F7hnoKoXO-office-manager",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 406,
+      "name": "Galactic Imagineer",
+      "description": "Galactic Imagineer is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-FCQb93bkT-galactic-imagineer",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 407,
+      "name": "GPT fr Filmeditor:innen",
+      "description": "GPT fr Filmeditor:innen is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-qdqhJxTX8-gpt-fur-filmeditor-innen",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 408,
+      "name": "Game Guru",
+      "description": "Game Guru is listed in the local TAAFT dataset.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-TzXkFPbqO-game-guru",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 409,
+      "name": "Free Job Description Generator",
+      "description": "Free Job Description Generator is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "No pricing",
+      "url": "https://hirequotient.com/free-jd-generator",
+      "domain": "hirequotient.com"
+    },
+    {
+      "id": 410,
+      "name": "Viral Visionary",
+      "description": "Viral Visionary is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-iQhBNQRnT-viral-visionary",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 411,
+      "name": "Human Rights in the Digital Age",
+      "description": "Human Rights in the Digital Age is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-cUqWfszyJ-human-rights-in-the-digital-age",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 412,
+      "name": "Academia de Francs",
+      "description": "Academia de Francs is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-Wxk2VbLt7-academia-de-frances",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 413,
+      "name": "Ai chatGpt friend",
+      "description": "Ai chatGpt friend is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@nicolenestander/ai-chatgpt-friend/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 414,
+      "name": "ImaginArt",
+      "description": "ImaginArt is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-KaAVbXJYY-imaginart",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 415,
+      "name": "Hypergro",
+      "description": "Hypergro is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Video",
+      "pricing": "Free + from $478/mo",
+      "url": "https://hypergro.ai/",
+      "domain": "hypergro.ai"
+    },
+    {
+      "id": 416,
+      "name": "AI Image Upscaler",
+      "description": "AI Image Upscaler is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://ai.nero.com/image-upscaler",
+      "domain": "ai.nero.com"
+    },
+    {
+      "id": 417,
+      "name": "Startup Pitch Deck Generator",
+      "description": "Startup Pitch Deck Generator is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Video",
+      "pricing": "Free + from $99",
+      "url": "https://agenthub.mindpal.space/chatbot/6538b1a66656f3ccc366fdde",
+      "domain": "agenthub.mindpal.space"
+    },
+    {
+      "id": 418,
+      "name": "U.S. Acquisition Pro [GPT-4.5 Unofficial]",
+      "description": "U.S. Acquisition Pro [GPT-4.5 Unofficial] is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-0nYPkElr9-u-s-acquisition-pro-gpt-4-5-unofficial",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 419,
+      "name": "Georgia Historian",
+      "description": "Georgia Historian is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-htSTVmWb2-georgia-historian",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 420,
+      "name": "Kolly",
+      "description": "Kolly",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@fataikolalawal/kolly/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 421,
+      "name": "Parcel Prodigy",
+      "description": "Parcel Prodigy is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-ZgfHktPCF-parcel-prodigy",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 422,
+      "name": "ShieldForce",
+      "description": "ShieldForce is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Video",
+      "pricing": "From $60",
+      "url": "https://shieldforce.io/",
+      "domain": "shieldforce.io"
+    },
+    {
+      "id": 423,
+      "name": "PokeCard Creator",
+      "description": "PokeCard Creator is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-UkAg2rB8Z-pokecard-creator",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 424,
+      "name": "Mindbreak",
+      "description": "Mindbreak is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Lifestyle",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-hIeoyyPQa-mindbreak",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 425,
+      "name": "News Authenticator",
+      "description": "News Authenticator is listed in the local TAAFT dataset.",
+      "category": "Automation",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-Q7JzS6VXh-news-authenticator",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 426,
+      "name": "AI Mailer",
+      "description": "AI Mailer is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://ai-mailer.com/",
+      "domain": "ai-mailer.com"
+    },
+    {
+      "id": 427,
+      "name": "Language Interpreter",
+      "description": "Language Interpreter is listed in the local TAAFT dataset.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-51oPFITRU-language-interpreter",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 428,
+      "name": "PinkPiko",
+      "description": "PinkPiko is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Voice",
+      "pricing": "No pricing",
+      "url": "https://www.pinkpiko.com/",
+      "domain": "www.pinkpiko.com"
+    },
+    {
+      "id": 429,
+      "name": "Thumbnail Crafter",
+      "description": "Thumbnail Crafter is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-87u4kv4kg-thumbnail-crafter",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 430,
+      "name": "TestGPT",
+      "description": "TestGPT is listed in the local TAAFT dataset.",
+      "category": "Productivity",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-ikpbT40PS-testgpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 431,
+      "name": "XantonAI",
+      "description": "XantonAI is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Productivity",
+      "pricing": "Free",
+      "url": "https://www.xantonai.com/",
+      "domain": "www.xantonai.com"
+    },
+    {
+      "id": 432,
+      "name": "Hehehe",
+      "description": "Hehehe is listed in the local TAAFT dataset.",
+      "category": "Design",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@riteshvloger/hehehe/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 433,
+      "name": "Digital Detox Coach",
+      "description": "Digital Detox Coach is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-HrUZ5I9TL-digital-detox-coach",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 434,
+      "name": "Scholar GPT",
+      "description": "Scholar GPT is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-kZ0eYXlJe-scholar-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 435,
+      "name": "Athelas",
+      "description": "Athelas is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Lifestyle",
+      "pricing": "No pricing",
+      "url": "https://www.athelas.com/",
+      "domain": "www.athelas.com"
+    },
+    {
+      "id": 436,
+      "name": "SkodeGPT",
+      "description": "SkodeGPT is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-lyZm7Ef5l-skodegpt-sketch-to-html",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 437,
+      "name": "hz's assistant",
+      "description": "hz's assistant is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-QzjgxKDs9-hz-s-assistant",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 438,
+      "name": "Framedrop",
+      "description": "Framedrop is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free + from $6.67/mo",
+      "url": "https://www.framedrop.gg/",
+      "domain": "www.framedrop.gg"
+    },
+    {
+      "id": 439,
+      "name": "Lucyd App",
+      "description": "Lucyd App is listed in the local TAAFT dataset.",
+      "category": "Voice",
+      "pricing": "No pricing",
+      "url": "https://www.lucyd.app/",
+      "domain": "www.lucyd.app"
+    },
+    {
+      "id": 440,
+      "name": "Gluten-Free Guru",
+      "description": "Gluten-Free Guru is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-EuqXGTZX3-gluten-free-guru",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 441,
+      "name": "TaxBotGPT",
+      "description": "TaxBotGPT is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Voice",
+      "pricing": "Free + from $7.12/mo",
+      "url": "https://taxbotgpt.ai/",
+      "domain": "taxbotgpt.ai"
+    },
+    {
+      "id": 442,
+      "name": "AI Event Scheduler",
+      "description": "AI Event Scheduler is listed in the local TAAFT dataset.",
+      "category": "Productivity",
+      "pricing": "No pricing",
+      "url": "https://chromewebstore.google.com/detail/ai-event-scheduler/joonhfeakadlfegdpkmccchjigahemjp",
+      "domain": "chromewebstore.google.com"
+    },
+    {
+      "id": 443,
+      "name": "Game Character Image Generator",
+      "description": "Game Character Image Generator is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-HeBF5Xbj2-game-character-image-generator",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 444,
+      "name": "PrepperGPT",
+      "description": "PrepperGPT is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-SU8hpjZJy-preppergpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 445,
+      "name": "PC Parts Finder",
+      "description": "PC Parts Finder is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-24Ia1IqoV-pc-parts-finder",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 446,
+      "name": "Data Analyst",
+      "description": "Data Analyst is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-Bffd9BRvW-data-analyst",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 447,
+      "name": "Liminal",
+      "description": "Liminal is listed in the local TAAFT dataset.",
+      "category": "Marketing",
+      "pricing": "No pricing",
+      "url": "https://www.liminal.ai/generative-ai-security-b",
+      "domain": "www.liminal.ai"
+    },
+    {
+      "id": 448,
+      "name": "Grill Guru",
+      "description": "Grill Guru is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-4mNcnNBgw-grill-guru",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 449,
+      "name": "Smart Shopper Assistant",
+      "description": "Smart Shopper Assistant is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Productivity",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-Aurc78VHo-smart-shopper-assistant",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 450,
+      "name": "Grundstckswert Rechner",
+      "description": "Grundstckswert Rechner is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-dTbDVcrd3-grundstuckswert-rechner",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 451,
+      "name": "AI 70",
+      "description": "AI 70 is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-kbTaQDAPR-ai-qing-70dai-kao-e-ping-jun-de-naritaiahou",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 452,
+      "name": "People AI",
+      "description": "People AI is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "No pricing",
+      "url": "https://people.ai/",
+      "domain": "people.ai"
+    },
+    {
+      "id": 453,
+      "name": "Stock Image Metadata Guru",
+      "description": "Stock Image Metadata Guru is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-RlTKUHzlr-stock-image-metadata-guru-supports-csv-export",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 454,
+      "name": "High School Baseball",
+      "description": "High School Baseball is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-GqBzrq979-high-school-baseball",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 455,
+      "name": "EnergeticAI",
+      "description": "EnergeticAI is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Analytics",
+      "pricing": "No pricing",
+      "url": "https://energeticai.org/",
+      "domain": "energeticai.org"
+    },
+    {
+      "id": 456,
+      "name": "Search Ads Headline Generator",
+      "description": "Search Ads Headline Generator is listed in the local TAAFT dataset.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-9JsGgpdtO-search-ads-headline-generator",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 457,
+      "name": "CourseGPT",
+      "description": "CourseGPT is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-Oan0HVZqT-coursegpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 458,
+      "name": "Cosmic Archives",
+      "description": "Cosmic Archives is listed in the local TAAFT dataset.",
+      "category": "Marketing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-4RwAySQ4X-cosmic-archives",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 459,
+      "name": "Brew Buddy",
+      "description": "Brew Buddy is listed in the local TAAFT dataset.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-ApPk9xlHC-brew-buddy",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 460,
+      "name": "NutriVision",
+      "description": "NutriVision is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-PrBxa6aot-nutrivision",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 461,
+      "name": "TeamAI",
+      "description": "TeamAI is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free + from $25/mo",
+      "url": "https://teamai.com/",
+      "domain": "teamai.com"
+    },
+    {
+      "id": 462,
+      "name": "IT Compliance Advisor",
+      "description": "IT Compliance Advisor is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-MLg7TZ53n-it-compliance-advisor",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 463,
+      "name": "Brou",
+      "description": "Brou is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "No pricing",
+      "url": "https://play.google.com/store/apps/details?id=com.anuj.brouai",
+      "domain": "play.google.com"
+    },
+    {
+      "id": 464,
+      "name": "Subject Line Generator",
+      "description": "Subject Line Generator is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://subjectlinegenerator.com/",
+      "domain": "subjectlinegenerator.com"
+    },
+    {
+      "id": 465,
+      "name": "NoGPT",
+      "description": "NoGPT is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-6RdHUuVmh-nogpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 466,
+      "name": "Code Guardian",
+      "description": "Code Guardian is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-X6pIVkkb4-code-guardian",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 467,
+      "name": "Local Guide",
+      "description": "Local Guide is listed in the local TAAFT dataset.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-PdcFrCVIv-local-guide",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 468,
+      "name": "Stoic Sage",
+      "description": "Stoic Sage is listed in the local TAAFT dataset.",
+      "category": "Design",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-bvIkTgxGA-stoic-sage",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 469,
+      "name": "Cold Weather",
+      "description": "Cold Weather is listed in the local TAAFT dataset.",
+      "category": "Analytics",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-YopUIrMXx-cold-weather",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 470,
+      "name": "Python Course",
+      "description": "Python Course is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-6UBe2KJeZ-python-course",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 471,
+      "name": "Dreamy Cat",
+      "description": "Dreamy Cat is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-bv0wNuv6i-dreamy-cat",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 472,
+      "name": "Movie script generator",
+      "description": "Movie script generator is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "No pricing",
+      "url": "https://theresanaiforthat.com/@jkpreboi/movie-script-generator/",
+      "domain": "theresanaiforthat.com"
+    },
+    {
+      "id": 473,
+      "name": "HudHud",
+      "description": "HudHud is listed in the local TAAFT dataset.",
+      "category": "Productivity",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-3h1YbXKYr-hudhud",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 474,
+      "name": "Accentra",
+      "description": "Accentra is listed in the local TAAFT dataset.",
+      "category": "Research",
+      "pricing": "Free + from $4.99/mo",
+      "url": "https://www.accentra.ai/",
+      "domain": "www.accentra.ai"
+    },
+    {
+      "id": 475,
+      "name": "AI Date Ideas",
+      "description": "AI Date Ideas is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://datebuilder.vercel.app/",
+      "domain": "datebuilder.vercel.app"
+    },
+    {
+      "id": 476,
+      "name": "Data Scribe - Essay Outline Maker",
+      "description": "Data Scribe - Essay Outline Maker is listed in the local TAAFT dataset.",
+      "category": "Writing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-K7Lj7d9A6-data-scribe-essay-outline-maker",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 477,
+      "name": "AdBuilder",
+      "description": "AdBuilder is listed in the local TAAFT dataset.",
+      "category": "Voice",
+      "pricing": "No pricing",
+      "url": "https://www.adbuilder.io/",
+      "domain": "www.adbuilder.io"
+    },
+    {
+      "id": 478,
+      "name": "Philosophy Mentor",
+      "description": "Philosophy Mentor is listed in the local TAAFT dataset.",
+      "category": "Education",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-WHDd2pvNc-philosophy-mentor",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 479,
+      "name": "Prompt Optimizer",
+      "description": "Prompt Optimizer is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Research",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-1vhO9Dwh1-prompt-optimizer",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 480,
+      "name": "Hero",
+      "description": "Hero is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "No pricing",
+      "url": "https://herostuff.com/",
+      "domain": "herostuff.com"
+    },
+    {
+      "id": 481,
+      "name": "EtsyGPT",
+      "description": "EtsyGPT is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-YbQlTZnoP-etsygpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 482,
+      "name": "Culture GPT",
+      "description": "Culture GPT is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-hSBsYWqUT-culture-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 483,
+      "name": "Web Stories Wizard",
+      "description": "Web Stories Wizard is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Marketing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-BXHgf9S5O-web-stories-wizard",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 484,
+      "name": "Hacker Art (by rez0)",
+      "description": "Hacker Art (by rez0) is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-LjmHKgJZO-hacker-art-by-rez0",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 485,
+      "name": "DriveGPT",
+      "description": "DriveGPT is listed in the local TAAFT dataset.",
+      "category": "Analytics",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-tlmvuJngB-drivegpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 486,
+      "name": "Roblox Code Review & Creator",
+      "description": "Roblox Code Review & Creator is listed in the local TAAFT dataset.",
+      "category": "Coding",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-PT7nBBTDb-roblox-code-review-creator",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 487,
+      "name": "Upsend",
+      "description": "Upsend is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Coding",
+      "pricing": "Free + from $14.99/m...",
+      "url": "https://www.upsend.co/",
+      "domain": "www.upsend.co"
+    },
+    {
+      "id": 488,
+      "name": "Writers brew",
+      "description": "Writers brew is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "Free + from $24",
+      "url": "https://writersbrew.app/",
+      "domain": "writersbrew.app"
+    },
+    {
+      "id": 489,
+      "name": "WriteAI.me",
+      "description": "WriteAI.me is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Writing",
+      "pricing": "No pricing",
+      "url": "https://writeai.me/",
+      "domain": "writeai.me"
+    },
+    {
+      "id": 490,
+      "name": "General SEO GPT",
+      "description": "General SEO GPT is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Marketing",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-ioAZiZNmT-general-seo-gpt",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 491,
+      "name": "Amigotor",
+      "description": "Amigotor is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Marketing",
+      "pricing": "From $4.99/mo",
+      "url": "https://amigotor.com/",
+      "domain": "amigotor.com"
+    },
+    {
+      "id": 492,
+      "name": "Avtrs",
+      "description": "Avtrs is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Image",
+      "pricing": "Free + from $1.99",
+      "url": "https://www.avtrs.ai/",
+      "domain": "www.avtrs.ai"
+    },
+    {
+      "id": 493,
+      "name": "Dungeon Master",
+      "description": "Dungeon Master is listed in the local TAAFT dataset.",
+      "category": "Video",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-41NPeXoBw-dungeon-master",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 494,
+      "name": "Milo",
+      "description": "Milo is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Automation",
+      "pricing": "From $24",
+      "url": "https://www.joinmilo.com/",
+      "domain": "www.joinmilo.com"
+    },
+    {
+      "id": 495,
+      "name": "Girlfriend AI",
+      "description": "Girlfriend AI is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Design",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-IP1dCLsTL-girlfriend-ai",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 496,
+      "name": "Softr",
+      "description": "Softr is an AI tool discovered from the local TAAFT scrape.",
+      "category": "Video",
+      "pricing": "Free + from $49/mo",
+      "url": "https://www.softr.io/ai-app-generator",
+      "domain": "www.softr.io"
+    },
+    {
+      "id": 497,
+      "name": "Dodo Cosmere Guru",
+      "description": "Dodo Cosmere Guru is listed in the local TAAFT dataset.",
+      "category": "Design",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-XrziWBTze-dodo-cosmere-guru",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 498,
+      "name": "Snack Guardian",
+      "description": "Snack Guardian is listed in the local TAAFT dataset.",
+      "category": "Image",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-Itgr7xFm5-snack-guardian",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 499,
+      "name": "Fortune Teller",
+      "description": "Fortune Teller is listed in the local TAAFT dataset.",
+      "category": "Automation",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-PawY8ZMQn-fortune-teller",
+      "domain": "chat.openai.com"
+    },
+    {
+      "id": 500,
+      "name": "Ethical Insight for Business",
+      "description": "Ethical Insight for Business is listed in the local TAAFT dataset.",
+      "category": "Business",
+      "pricing": "Free",
+      "url": "https://chat.openai.com/g/g-SN1TStNPc-ethical-insight-for-business",
+      "domain": "chat.openai.com"
+    }
+  ]
+}

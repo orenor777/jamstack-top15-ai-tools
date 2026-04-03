@@ -1,0 +1,42 @@
+{{ define "main" }}
+<main>
+  <section class="tool-detail">
+    <div class="breadcrumb">
+      <a href="/">Home</a>
+      <span>/</span>
+      {{ with index .Params.categories 0 }}
+      <a href="/categories/{{ . | urlize }}/">{{ . }}</a>
+      <span>/</span>
+      {{ end }}
+      <span>{{ .Title }}</span>
+    </div>
+    <div class="badge">Tool page</div>
+    <h1>{{ .Title }}</h1>
+    <div class="detail-copy">
+      <p>{{ .Params.description }}</p>
+    </div>
+    <div class="detail-meta">
+      <div class="detail-row">
+        <span class="detail-label">Category</span>
+        {{ with index .Params.categories 0 }}
+        <a href="/categories/{{ . | urlize }}/">{{ . }}</a>
+        {{ end }}
+      </div>
+      <div class="detail-row">
+        <span class="detail-label">Pricing</span>
+        <span>{{ .Params.pricing }}</span>
+      </div>
+      <div class="detail-row">
+        <span class="detail-label">Domain</span>
+        <span>{{ .Params.domain }}</span>
+      </div>
+    </div>
+    <div class="detail-actions">
+      <a class="button button-primary" href="{{ .Params.external_url }}" target="_blank" rel="noreferrer">Visit tool</a>
+      {{ with index .Params.categories 0 }}
+      <a class="button button-secondary" href="/categories/{{ . | urlize }}/">More {{ . }} tools</a>
+      {{ end }}
+    </div>
+  </section>
+</main>
+{{ end }}

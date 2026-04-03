@@ -1,0 +1,9 @@
+{
+  "slug": "sphinx",
+  "name": "Sphinx",
+  "stars": 7305,
+  "source_url": "https://jamstack.org/generators/",
+  "tagline": "Python documentation build system adapted for static publishing",
+  "notes": "Typical static build: sphinx-build -b html source build.",
+  "render_name": "taaft-sphinx"
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "eleventy",
+  "name": "Eleventy",
+  "stars": 18662,
+  "source_url": "https://jamstack.org/generators/",
+  "tagline": "Flexible JavaScript static site generator",
+  "notes": "Typical static build: eleventy producing _site/.",
+  "render_name": "taaft-eleventy"
+}
