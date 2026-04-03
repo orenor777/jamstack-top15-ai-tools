@@ -1,6 +1,6 @@
 baseURL = "https://taaft-hugo-static.onrender.com/"
 languageCode = "en-us"
-title = "Hugo × TAAFT"
+title = "AI Tools Directory"
 disableKinds = ["RSS"]
 
 [taxonomies]

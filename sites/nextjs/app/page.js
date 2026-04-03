@@ -30,8 +30,8 @@ export default function HomePage() {
         <div className="brand-block">
           <div className="brand-mark">N</div>
           <div>
-            <div><strong>Next.js × TAAFT</strong></div>
-            <div className="meta-note">Native static export with category and tool pages</div>
+            <div><strong>AI Tools Directory</strong></div>
+            <div className="meta-note">Static directory with category pages and tool detail pages</div>
           </div>
         </div>
         <a href="#directory">Browse tools</a>
@@ -46,7 +46,7 @@ export default function HomePage() {
             </h1>
             <p>
               This version is built natively by Next.js and exported as a static site. It includes
-              category pages, dedicated tool pages, and 500 tools selected from the local TAAFT dataset.
+              category pages, dedicated tool pages, and 500 AI tools ready to browse.
             </p>
             <div className="hero-meta">
               <div className="meta-card">

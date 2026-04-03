@@ -1,5 +1,5 @@
-site_name: MkDocs × TAAFT
-site_description: MkDocs static AI tools directory built from the local TAAFT dataset.
+site_name: AI Tools Directory
+site_description: A static AI tools directory with category pages and tool detail pages.
 theme:
   name: mkdocs
 extra_css:

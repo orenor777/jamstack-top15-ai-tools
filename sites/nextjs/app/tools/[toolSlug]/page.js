@@ -19,11 +19,11 @@ export default async function ToolPage({ params }) {
         <div className="brand-block">
           <div className="brand-mark">N</div>
           <div>
-            <div><strong>Next.js × TAAFT</strong></div>
-            <div className="meta-note">Tool route generated at build time</div>
+            <div><strong>AI Tools Directory</strong></div>
+            <div className="meta-note">Tool details and category navigation</div>
           </div>
         </div>
-        <Link href="/">Back home</Link>
+        <Link href="/">All tools</Link>
       </header>
 
       <main>

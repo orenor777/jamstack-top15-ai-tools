@@ -2,8 +2,8 @@ import { siteUrl } from "../lib/tools";
 import "./globals.css";
 
 export const metadata = {
-  title: "Next.js × TAAFT",
-  description: "Next.js static AI tools directory built from the local TAAFT dataset.",
+  title: "AI Tools Directory",
+  description: "A static directory of AI tools with category pages and individual tool details.",
   metadataBase: new URL(siteUrl),
 };
 

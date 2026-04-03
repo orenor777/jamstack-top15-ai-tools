@@ -18,6 +18,16 @@ def slugify(value: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-") or "item"
 
 
+def sanitize_description(description: str, name: str) -> str:
+    if not description:
+        return f"{name} is included in this AI tools directory."
+
+    return (
+        description.replace(" is listed in the local TAAFT dataset.", " is included in this AI tools directory.")
+        .replace(" is an AI tool discovered from the local TAAFT scrape.", " is featured in this AI tools directory.")
+    )
+
+
 def card(tool: dict) -> str:
     return card_with_prefix(tool, "")
 
@@ -32,7 +42,7 @@ def card_with_prefix(tool: dict, prefix: str) -> str:
     <span class="tool-pricing">{tool["pricing"]}</span>
   </div>
   <h3><a href="{prefix}tools/{slug}/">{tool["name"]}</a></h3>
-  <p>{tool["description"]}</p>
+  <p>{sanitize_description(tool["description"], tool["name"])}</p>
   <div class="tool-footer">
     <span>{tool["domain"] or "Unknown domain"}</span>
     <a class="tool-link" href="{prefix}tools/{slug}/">View details</a>
@@ -62,7 +72,7 @@ def main() -> None:
     (DOCS / "index.md").write_text(
         f"""# MkDocs for a static _AI tools directory_
 
-This site is built natively by MkDocs and published as plain static HTML. It includes 500 tools, category pages, and dedicated tool pages generated from the local TAAFT dataset.
+This site is built natively by MkDocs and published as plain static HTML. It includes 500 tools, category pages, and dedicated tool pages.
 
 <div class="category-pills">
 {category_links}
@@ -131,7 +141,7 @@ body { background: linear-gradient(180deg, #f6f1e8 0%, #efe7da 100%); }
 
 [Home](../) / [{tool['category']}](../categories/{category_slug}/)
 
-{tool['description']}
+{sanitize_description(tool['description'], tool['name'])}
 
 ## Details
 

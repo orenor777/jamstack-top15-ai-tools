@@ -21,13 +21,24 @@ def escape_toml(value: str) -> str:
     return value.replace("\\", "\\\\").replace('"', '\\"')
 
 
+def sanitize_description(description: str, name: str) -> str:
+    if not description:
+        return f"{name} is included in this AI tools directory."
+
+    return (
+        description.replace(" is listed in the local TAAFT dataset.", " is included in this AI tools directory.")
+        .replace(" is an AI tool discovered from the local TAAFT scrape.", " is featured in this AI tools directory.")
+    )
+
+
 def frontmatter(tool: dict) -> str:
     category = escape_toml(tool["category"])
+    description = sanitize_description(tool["description"], tool["name"])
     return "\n".join(
         [
             "+++",
             f'title = "{escape_toml(tool["name"])}"',
-            f'description = "{escape_toml(tool["description"])}"',
+            f'description = "{escape_toml(description)}"',
             f'pricing = "{escape_toml(tool["pricing"])}"',
             f'external_url = "{tool["url"]}"',
             f'domain = "{escape_toml(tool["domain"])}"',
@@ -35,7 +46,7 @@ def frontmatter(tool: dict) -> str:
             "type = \"tools\"",
             "+++",
             "",
-            tool["description"],
+            description,
             "",
         ]
     )
@@ -54,8 +65,8 @@ def main() -> None:
         "\n".join(
             [
                 "+++",
-                'title = "Hugo × TAAFT"',
-                'description = "Hugo static AI tools directory built from the local TAAFT dataset."',
+                'title = "AI Tools Directory"',
+                'description = "A static AI tools directory built with Hugo."',
                 "+++",
                 "",
                 "500 AI tools rendered by Hugo into static HTML.",
