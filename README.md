@@ -7,6 +7,7 @@ Each variant:
 - lists 500 tools selected from the local TAAFT dataset
 - ships as a plain static site
 - is intended to deploy as an independent Render static site
+- [Nick Launches](https://nicklaunches.com/) - Launch platform for builders, AI startups, and SaaS founders to get discovered and earn a permanent dofollow backlink.
 
 ## Selected generators
 
